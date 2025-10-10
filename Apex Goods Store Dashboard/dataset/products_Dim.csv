@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Brand,UnitCost,UnitPrice,StockQty,Supplier
+200001,Lenovo ThinkPad X1,Electronics,Lenovo,950,1299,356,TechSource Ltd
+200002,iPhone 14 Pro,Electronics,Apple,850,1199,279,Apple Dist.
+200003,Ergonomic Chair,Furniture,IKEA,90,180,487,IKEA Egypt
+200004,Coffee Machine 750ml,Appliances,Philips,120,230,297,Philips Supply
+200005,LED Desk Lamp,Furniture,Xiaomi,20,49,288,HomeTech Import
+200006,Samsung Galaxy S23,Electronics,Samsung,700,999,136,Samsung Dist.
+200007,Gaming Mouse,Electronics,Logitech,25,65,313,Logitech Dist.
+200008,Office Desk,Furniture,IKEA,150,320,393,IKEA Egypt
+200009,Blender 1.5L,Appliances,Braun,80,160,463,Braun Supply
+200010,Wireless Headphones,Electronics,Sony,60,120,438,Sony Dist.
