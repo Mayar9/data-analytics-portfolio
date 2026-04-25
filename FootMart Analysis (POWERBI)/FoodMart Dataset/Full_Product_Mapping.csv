@@ -1,0 +1,1561 @@
+product_id,product_brand,product_name,Refined_Brand,Product_Type,Meta_Category
+1,Washington,Washington Berry Juice,Market Beverage,Juice,Beverage
+2,Washington,Washington Mango Drink,Market Beverage,Drink,Beverage
+3,Washington,Washington Strawberry Drink,Market Beverage,Drink,Beverage
+4,Washington,Washington Cream Soda,Market Beverage,Soda,Beverage
+5,Washington,Washington Diet Soda,Market Beverage,Soda,Beverage
+6,Washington,Washington Cola,Market Beverage,Cola,Beverage
+7,Washington,Washington Diet Cola,Market Beverage,Cola,Beverage
+8,Washington,Washington Orange Juice,Market Beverage,Juice,Beverage
+9,Washington,Washington Cranberry Juice,Market Beverage,Juice,Beverage
+10,Washington,Washington Apple Juice,Market Beverage,Juice,Beverage
+11,Washington,Washington Apple Drink,Market Beverage,Drink,Beverage
+12,Jeffers,Jeffers Oatmeal,Market Snacks/Frozen,Oatmeal,Snacks/Frozen
+13,Jeffers,Jeffers Corn Puffs,Market Produce,Puffs,Produce
+14,Jeffers,Jeffers Wheat Puffs,Market Snacks/Frozen,Puffs,Snacks/Frozen
+15,Jeffers,Jeffers Grits,Market Snacks/Frozen,Grits,Snacks/Frozen
+16,Blue Label,Blue Label Canned Beets,Blue Label,Beets,Produce
+17,Blue Label,Blue Label Creamed Corn,Blue Label,Corn,Produce
+18,Blue Label,Blue Label Canned String Beans,Blue Label,Beans,Produce
+19,Blue Label,Blue Label Chicken Soup,Blue Label,Soup,Meat/Seafood
+20,Blue Label,Blue Label Canned Yams,Blue Label,Yams,Produce
+21,Blue Label,Blue Label Vegetable Soup,Blue Label,Soup,Produce
+22,Blue Label,Blue Label Canned Tomatos,Blue Label,Tomatos,Produce
+23,Blue Label,Blue Label Noodle Soup,Blue Label,Soup,Bakery/Pasta
+24,Blue Label,Blue Label Regular Ramen Soup,Blue Label,Soup,Bakery/Pasta
+25,Blue Label,Blue Label Chicken Noodle Soup,Blue Label,Soup,Bakery/Pasta
+26,Blue Label,Blue Label Turkey Noodle Soup,Blue Label,Soup,Bakery/Pasta
+27,Blue Label,Blue Label Beef Soup,Blue Label,Soup,Meat/Seafood
+28,Blue Label,Blue Label Canned Peas,Blue Label,Peas,Produce
+29,Blue Label,Blue Label Chicken Ramen Soup,Blue Label,Soup,Bakery/Pasta
+30,Blue Label,Blue Label Canned Tuna in Water,Blue Label,Water,Beverage
+31,Blue Label,Blue Label Canned Tuna in Oil,Blue Label,Oil,Produce
+32,Blue Label,Blue Label Large Canned Shrimp,Blue Label,Shrimp,Produce
+33,Blue Label,Blue Label Fancy Canned Anchovies,Blue Label,Anchovies,Produce
+34,Blue Label,Blue Label Fancy Canned Clams,Blue Label,Clams,Produce
+35,Blue Label,Blue Label Fancy Canned Oysters,Blue Label,Oysters,Produce
+36,Blue Label,Blue Label Fancy Canned Sardines,Blue Label,Sardines,Produce
+37,Blue Label,Blue Label Rice Soup,Blue Label,Soup,Pantry
+38,Green Ribbon,Green Ribbon Canned Mixed Fruit,Market Produce,Fruit,Produce
+39,Green Ribbon,Green Ribbon Canned Peaches,Market Produce,Peaches,Produce
+40,King,King Rosy Sunglasses,Market Household,Sunglasses,Household
+41,Queen,Queen Eyeglass Screwdriver,Market Household,Screwdriver,Household
+42,Queen,Queen City Map,Market Household,Map,Household
+43,Club,Club Low Fat Cottage Cheese,Club,Cheese,Dairy
+44,Club,Club Low Fat Sour Cream,Club,Cream,Dairy
+45,Club,Club Sour Cream,Club,Cream,Dairy
+46,Club,Club Jack Cheese,Club,Cheese,Dairy
+47,Club,Club Muenster Cheese,Club,Cheese,Dairy
+48,Club,Club String Cheese,Club,Cheese,Dairy
+49,Club,Club Low Fat String Cheese,Club,Cheese,Dairy
+50,Club,Club Havarti Cheese,Club,Cheese,Dairy
+51,Club,Club Head Cheese,Club,Cheese,Dairy
+52,Club,Club Cheese Spread,Club,Spread,Dairy
+53,Club,Club Sharp Cheddar Cheese,Club,Cheese,Dairy
+54,Club,Club Mild Cheddar Cheese,Club,Cheese,Dairy
+55,Club,Club Large Curd Cottage Cheese,Club,Cheese,Dairy
+56,Club,Club 2% Milk,Club,Milk,Beverage
+57,Club,Club Buttermilk,Club,Buttermilk,Beverage
+58,Club,Club Chocolate Milk,Club,Milk,Beverage
+59,Club,Club 1% Milk,Club,Milk,Beverage
+60,Club,Club Whole Milk,Club,Milk,Beverage
+61,Club,Club Strawberry Yogurt,Club,Yogurt,Dairy
+62,Club,Club Blueberry Yogurt,Club,Yogurt,Dairy
+63,Red Spade,Red Spade Chicken Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+64,Red Spade,Red Spade Pimento Loaf,Market Produce,Loaf,Produce
+65,Red Spade,Red Spade Beef Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+66,Red Spade,Red Spade Low Fat Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+67,Red Spade,Red Spade Turkey Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+68,Red Spade,Red Spade Foot-Long Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+69,Red Spade,Red Spade Low Fat Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+70,Red Spade,Red Spade Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+71,Red Spade,Red Spade Roasted Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+72,Red Spade,Red Spade Corned Beef,Market Produce,Beef,Produce
+73,Red Spade,Red Spade Sliced Turkey,Market Meat/Seafood,Turkey,Meat/Seafood
+74,Red Spade,Red Spade Sliced Ham,Market Meat/Seafood,Ham,Meat/Seafood
+75,Red Spade,Red Spade Potato Salad,Market Produce,Salad,Produce
+76,Red Spade,Red Spade Sliced Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+77,Blue Medal,Blue Medal Small Brown Eggs,Market Dairy,Eggs,Dairy
+78,Blue Medal,Blue Medal Large Brown Eggs,Market Dairy,Eggs,Dairy
+79,Blue Medal,Blue Medal Small Eggs,Market Dairy,Eggs,Dairy
+80,Blue Medal,Blue Medal Large Eggs,Market Dairy,Eggs,Dairy
+81,Blue Medal,Blue Medal Egg Substitute,Market Dairy,Substitute,Dairy
+82,Golden,Golden Low Fat Waffles,Golden,Waffles,Snacks/Frozen
+83,Golden,Golden Orange Popsicles,Golden,Popsicles,Snacks/Frozen
+84,Golden,Golden Frozen Chicken Breast,Golden,Breast,Produce
+85,Golden,Golden Frozen Pancakes,Golden,Pancakes,Produce
+86,Golden,Golden Low Fat French Fries,Golden,Fries,Snacks/Frozen
+87,Golden,Golden Frozen Sausage Pizza,Golden,Pizza,Produce
+88,Golden,Golden Blueberry Waffles,Golden,Waffles,Snacks/Frozen
+89,Golden,Golden Fajita French Fries,Golden,Fries,Snacks/Frozen
+90,Golden,Golden Waffles,Golden,Waffles,Snacks/Frozen
+91,Golden,Golden Frozen Pepperoni Pizza,Golden,Pizza,Produce
+92,Golden,Golden Frozen Cheese Pizza,Golden,Pizza,Produce
+93,Golden,Golden Frozen Mushroom Pizza,Golden,Pizza,Produce
+94,Golden,Golden Apple Cinnamon Waffles,Golden,Waffles,Produce
+95,Golden,Golden Frozen Carrots,Golden,Carrots,Produce
+96,Golden,Golden Turkey TV Dinner,Golden,Dinner,Meat/Seafood
+97,Golden,Golden Chicken TV Dinner,Golden,Dinner,Meat/Seafood
+98,Golden,Golden Beef TV Dinner,Golden,Dinner,Meat/Seafood
+99,Golden,Golden Pancake Mix,Golden,Mix,Bakery/Pasta
+100,Golden,Golden Grape Popsicles,Golden,Popsicles,Snacks/Frozen
+101,Golden,Golden Home Style French Fries,Golden,Fries,Snacks/Frozen
+102,Golden,Golden Lime Popsicles,Golden,Popsicles,Snacks/Frozen
+103,Golden,Golden Ice Cream,Golden,Cream,Dairy
+104,Golden,Golden Ice Cream Sandwich,Golden,Sandwich,Dairy
+105,Golden,Golden Frozen Cauliflower,Golden,Cauliflower,Produce
+106,Golden,Golden Frozen Broccoli,Golden,Broccoli,Produce
+107,Golden,Golden Frozen Corn,Golden,Corn,Produce
+108,Golden,Golden Frozen Peas,Golden,Peas,Produce
+109,Golden,Golden Popsicles,Golden,Popsicles,Snacks/Frozen
+110,Golden,Golden Frozen Chicken Thighs,Golden,Thighs,Produce
+111,Golden,Golden Frozen Chicken Wings,Golden,Wings,Produce
+112,Golden,Golden Lemon Popsicles,Golden,Popsicles,Snacks/Frozen
+113,Faux Products,Faux Products Silky Smooth Hair Conditioner,Faux Products,Conditioner,Personal Care
+114,Faux Products,Faux Products Tartar Control Toothpaste,Faux Products,Toothpaste,Personal Care
+115,Faux Products,Faux Products Whitening Toothpast,Faux Products,Toothpast,Miscellaneous
+116,Faux Products,Faux Products Toothpaste,Faux Products,Toothpaste,Personal Care
+117,Faux Products,Faux Products Deodorant,Faux Products,Deodorant,Personal Care
+118,Faux Products,Faux Products Conditioning Shampoo,Faux Products,Shampoo,Meat/Seafood
+119,Faux Products,Faux Products Extra Moisture Shampoo,Faux Products,Shampoo,Meat/Seafood
+120,Faux Products,Faux Products Angled Toothbrush,Faux Products,Toothbrush,Miscellaneous
+121,Faux Products,Faux Products Apricot Shampoo,Faux Products,Shampoo,Meat/Seafood
+122,Faux Products,Faux Products Childrens Aspirin,Faux Products,Aspirin,Personal Care
+123,Faux Products,Faux Products Buffered Aspirin,Faux Products,Aspirin,Personal Care
+124,Faux Products,Faux Products 200 MG Ibuprofen,Faux Products,Ibuprofen,Miscellaneous
+125,Faux Products,Faux Products 200 MG Acetominifen,Faux Products,Acetominifen,Personal Care
+126,Faux Products,Faux Products HCL Nasal Spray,Faux Products,Spray,Miscellaneous
+127,Faux Products,Faux Products Dishwasher Detergent,Faux Products,Detergent,Household
+128,Faux Products,Faux Products Multi-Symptom Cold Remedy,Faux Products,Remedy,Personal Care
+129,Faux Products,Faux Products Childrens Cold Remedy,Faux Products,Remedy,Personal Care
+130,Faux Products,Faux Products Laundry Detergent,Faux Products,Detergent,Household
+131,Faux Products,Faux Products Mint Mouthwash,Faux Products,Mouthwash,Miscellaneous
+132,Denny,Denny 60 Watt Lightbulb,Denny,Lightbulb,Household
+133,Denny,Denny Plastic Forks,Denny,Forks,Household
+134,Denny,Denny Plastic Spoons,Denny,Spoons,Household
+135,Denny,Denny Plastic Knives,Denny,Knives,Household
+136,Denny,Denny C-Size Batteries,Denny,Batteries,Miscellaneous
+137,Denny,Denny 100 Watt Lightbulb,Denny,Lightbulb,Household
+138,Denny,Denny AAA-Size Batteries,Denny,Batteries,Miscellaneous
+139,Denny,Denny Paper Plates,Denny,Plates,Household
+140,Denny,Denny Paper Cups,Denny,Cups,Household
+141,Denny,Denny 75 Watt Lightbulb,Denny,Lightbulb,Household
+142,Denny,Denny Toilet Bowl Cleaner,Denny,Cleaner,Household
+143,Denny,Denny Counter Cleaner,Denny,Cleaner,Household
+144,Denny,Denny Glass Cleaner,Denny,Cleaner,Household
+145,Denny,Denny 25 Watt Lightbulb,Denny,Lightbulb,Household
+146,Denny,Denny AA-Size Batteries,Denny,Batteries,Miscellaneous
+147,Denny,Denny D-Size Batteries,Denny,Batteries,Miscellaneous
+148,Denny,Denny Paper Towels,Denny,Towels,Household
+149,Denny,Denny Soft Napkins,Denny,Napkins,Household
+150,Denny,Denny Scented Tissue,Denny,Tissue,Household
+151,Denny,Denny Toilet Paper,Denny,Paper,Household
+152,Denny,Denny Tissues,Denny,Tissues,Household
+153,Denny,Denny Scented Toilet Tissue,Denny,Tissue,Household
+154,Denny,Denny Room Freshener,Denny,Freshener,Produce
+155,Denny,Denny Frying Pan,Denny,Pan,Miscellaneous
+156,Denny,Denny Copper Cleaner,Denny,Cleaner,Household
+157,Denny,Denny Bees Wax Candles,Denny,Candles,Miscellaneous
+158,Denny,Denny Silver Cleaner,Denny,Cleaner,Household
+159,Denny,Denny Copper Pot Scrubber,Denny,Scrubber,Miscellaneous
+160,Denny,Denny Economy Toilet Brush,Denny,Brush,Pantry
+161,Denny,Denny Scissors,Denny,Scissors,Miscellaneous
+162,Denny,Denny Large Sponge,Denny,Sponge,Miscellaneous
+163,Denny,Denny Screw Driver,Denny,Driver,Miscellaneous
+164,Ship Shape,Ship Shape Extra Lean Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+165,Ship Shape,Ship Shape Seasoned Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+166,Robust,Robust Monthly Sports Magazine,Market Media,Magazine,Media
+167,Robust,Robust Monthly Auto Magazine,Market Media,Magazine,Media
+168,Robust,Robust Monthly Computer Magazine,Market Media,Magazine,Media
+169,Robust,Robust Monthly Home Magazine,Market Media,Magazine,Media
+170,Robust,Robust Monthly Fashion Magazine,Market Media,Magazine,Media
+171,High Top,High Top Summer Squash,High Top,Squash,Miscellaneous
+172,High Top,High Top Corn on the Cob,High Top,Cob,Produce
+173,High Top,High Top Asparagus,High Top,Asparagus,Produce
+174,High Top,High Top Sweet Peas,High Top,Peas,Produce
+175,High Top,High Top New Potatos,High Top,Potatos,Produce
+176,High Top,High Top Beets,High Top,Beets,Produce
+177,High Top,High Top Prepared Salad,High Top,Salad,Miscellaneous
+178,High Top,High Top Onions,High Top,Onions,Produce
+179,High Top,High Top Green Pepper,High Top,Pepper,Pantry
+180,High Top,High Top Shitake Mushrooms,High Top,Mushrooms,Produce
+181,High Top,High Top Lettuce,High Top,Lettuce,Produce
+182,High Top,High Top Elephant Garlic,High Top,Garlic,Produce
+183,High Top,High Top Red Pepper,High Top,Pepper,Pantry
+184,High Top,High Top Garlic,High Top,Garlic,Produce
+185,High Top,High Top Potatos,High Top,Potatos,Produce
+186,High Top,High Top Cauliflower,High Top,Cauliflower,Produce
+187,High Top,High Top Tomatos,High Top,Tomatos,Produce
+188,High Top,High Top Mushrooms,High Top,Mushrooms,Produce
+189,High Top,High Top Baby Onion,High Top,Onion,Produce
+190,High Top,High Top Dried Mushrooms,High Top,Mushrooms,Produce
+191,High Top,High Top Fresh Lima Beans,High Top,Beans,Produce
+192,High Top,High Top Squash,High Top,Squash,Miscellaneous
+193,High Top,High Top Limes,High Top,Limes,Miscellaneous
+194,High Top,High Top Firm Tofu,High Top,Tofu,Miscellaneous
+195,High Top,High Top Almonds,High Top,Almonds,Miscellaneous
+196,High Top,High Top Macintosh Apples,High Top,Apples,Produce
+197,High Top,High Top Golden Delcious Apples,High Top,Apples,Produce
+198,High Top,High Top Red Delcious Apples,High Top,Apples,Produce
+199,High Top,High Top Lemons,High Top,Lemons,Miscellaneous
+200,High Top,High Top Fancy Plums,High Top,Plums,Miscellaneous
+201,High Top,High Top Plums,High Top,Plums,Miscellaneous
+202,High Top,High Top Peaches,High Top,Peaches,Produce
+203,High Top,High Top Broccoli,High Top,Broccoli,Produce
+204,High Top,High Top Mandarin Oranges,High Top,Oranges,Miscellaneous
+205,High Top,High Top Mixed Nuts,High Top,Nuts,Produce
+206,High Top,High Top Canned Peanuts,High Top,Peanuts,Produce
+207,High Top,High Top Sweet Onion,High Top,Onion,Produce
+208,High Top,High Top Cantelope,High Top,Cantelope,Miscellaneous
+209,High Top,High Top Honey Dew,High Top,Dew,Pantry
+210,High Top,High Top Fuji Apples,High Top,Apples,Produce
+211,High Top,High Top Walnuts,High Top,Walnuts,Produce
+212,High Top,High Top Oranges,High Top,Oranges,Miscellaneous
+213,High Top,High Top Tangerines,High Top,Tangerines,Miscellaneous
+214,High Top,High Top Party Nuts,High Top,Nuts,Produce
+215,Tip Top,Tip Top Lox,Market Meat/Seafood,Lox,Meat/Seafood
+216,Tip Top,Tip Top Scallops,Market Meat/Seafood,Scallops,Meat/Seafood
+217,Best Choice,Best Choice Low Fat Cookies,Best Choice,Cookies,Snacks/Frozen
+218,Best Choice,Best Choice BBQ Potato Chips,Best Choice,Chips,Produce
+219,Best Choice,Best Choice Corn Chips,Best Choice,Chips,Produce
+220,Best Choice,Best Choice Low Fat BBQ Chips,Best Choice,Chips,Snacks/Frozen
+221,Best Choice,Best Choice Sugar Cookies,Best Choice,Cookies,Snacks/Frozen
+222,Best Choice,Best Choice Chocolate Chip Cookies,Best Choice,Cookies,Beverage
+223,Best Choice,Best Choice Fudge Cookies,Best Choice,Cookies,Snacks/Frozen
+224,Best Choice,Best Choice Fudge Brownies,Best Choice,Brownies,Miscellaneous
+225,Best Choice,Best Choice Potato Chips,Best Choice,Chips,Produce
+226,Best Choice,Best Choice Lemon Cookies,Best Choice,Cookies,Snacks/Frozen
+227,Best Choice,Best Choice Graham Crackers,Best Choice,Crackers,Snacks/Frozen
+228,Best Choice,Best Choice Cheese Crackers,Best Choice,Crackers,Dairy
+229,Best Choice,Best Choice Buttered Popcorn,Best Choice,Popcorn,Produce
+230,Best Choice,Best Choice No Salt Popcorn,Best Choice,Popcorn,Produce
+231,Best Choice,Best Choice Low Fat Popcorn,Best Choice,Popcorn,Produce
+232,Best Choice,Best Choice Salsa Dip,Best Choice,Dip,Miscellaneous
+233,Best Choice,Best Choice Avocado Dip,Best Choice,Dip,Miscellaneous
+234,Best Choice,Best Choice Salted Pretzels,Best Choice,Pretzels,Snacks/Frozen
+235,Best Choice,Best Choice Cheese Dip,Best Choice,Dip,Dairy
+236,Best Choice,Best Choice Fondue Mix,Best Choice,Mix,Miscellaneous
+237,Best Choice,Best Choice Mini Donuts,Best Choice,Donuts,Produce
+238,Best Choice,Best Choice Beef Jerky,Best Choice,Jerky,Meat/Seafood
+239,Best Choice,Best Choice Chocolate Donuts,Best Choice,Donuts,Beverage
+240,Best Choice,Best Choice Low Fat Chips,Best Choice,Chips,Snacks/Frozen
+241,Best Choice,Best Choice Sesame Crackers,Best Choice,Crackers,Snacks/Frozen
+242,Best Choice,Best Choice Frosted Cookies,Best Choice,Cookies,Snacks/Frozen
+243,Best Choice,Best Choice Dried Apples,Best Choice,Apples,Produce
+244,Best Choice,Best Choice Apple Fruit Roll,Best Choice,Roll,Produce
+245,Best Choice,Best Choice Strawberry Fruit Roll,Best Choice,Roll,Produce
+246,Best Choice,Best Choice Raspberry Fruit Roll,Best Choice,Roll,Produce
+247,Best Choice,Best Choice Grape Fruit Roll,Best Choice,Roll,Produce
+248,Best Choice,Best Choice Dried Dates,Best Choice,Dates,Produce
+249,Best Choice,Best Choice Raisins,Best Choice,Raisins,Miscellaneous
+250,Best Choice,Best Choice Golden Raisins,Best Choice,Raisins,Miscellaneous
+251,Best Choice,Best Choice Dried Apricots,Best Choice,Apricots,Produce
+252,Best Choice,Best Choice Frosted Donuts,Best Choice,Donuts,Produce
+253,Choice,Choice Tasty Candy Bar,Market Snacks/Frozen,Bar,Snacks/Frozen
+254,Choice,Choice Mint Chocolate Bar,Market Beverage,Bar,Beverage
+255,Choice,Choice Malted Milk Balls,Market Beverage,Balls,Beverage
+256,Choice,Choice Semi-Sweet Chocolate Bar,Market Beverage,Bar,Beverage
+257,Choice,Choice Bubble Gum,Market Snacks/Frozen,Gum,Snacks/Frozen
+258,Choice,Choice Spicy Mints,Market Miscellaneous,Mints,Miscellaneous
+259,Choice,Choice Mints,Market Miscellaneous,Mints,Miscellaneous
+260,Choice,Choice White Chocolate Bar,Market Beverage,Bar,Beverage
+261,Medalist,Medalist Ravioli,Market Miscellaneous,Ravioli,Miscellaneous
+262,Medalist,Medalist Manicotti,Market Miscellaneous,Manicotti,Miscellaneous
+263,Medalist,Medalist Spaghetti,Market Bakery/Pasta,Spaghetti,Bakery/Pasta
+264,Medalist,Medalist Thai Rice,Market Pantry,Rice,Pantry
+265,Medalist,Medalist Rice Medly,Market Pantry,Medly,Pantry
+266,Good,Good Imported Beer,Market Beverage,Beer,Beverage
+267,Good,Good Light Wine,Market Beverage,Wine,Beverage
+268,Good,Good Chardonnay Wine,Market Beverage,Wine,Beverage
+269,Good,Good Chablis Wine,Market Beverage,Wine,Beverage
+270,Good,Good Merlot Wine,Market Beverage,Wine,Beverage
+271,Good,Good Chardonnay,Market Miscellaneous,Chardonnay,Miscellaneous
+272,Good,Good White Zinfandel Wine,Market Beverage,Wine,Beverage
+273,Good,Good Light Beer,Market Beverage,Beer,Beverage
+274,Great,Great Pumpernickel Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+275,Great,Great White Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+276,Great,Great Rye Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+277,Great,Great English Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+278,Great,Great Cranberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+279,Great,Great Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+280,Great,Great Bagels,Market Bakery/Pasta,Bagels,Bakery/Pasta
+281,Great,Great Blueberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+282,Great,Great Wheat Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+283,Super,Super Sesame Oil,Super,Oil,Pantry
+284,Super,Super Chunky Peanut Butter,Super,Butter,Produce
+285,Super,Super Hot Chocolate,Super,Chocolate,Beverage
+286,Super,Super Brown Sugar,Super,Sugar,Pantry
+287,Super,Super White Sugar,Super,Sugar,Pantry
+288,Super,Super French Roast Coffee,Super,Coffee,Beverage
+289,Super,Super Decaf Coffee,Super,Coffee,Beverage
+290,Super,Super Regular Coffee,Super,Coffee,Beverage
+291,Super,Super Vegetable Oil,Super,Oil,Produce
+292,Super,Super Corn Oil,Super,Oil,Produce
+293,Super,Super Tomato Sauce,Super,Sauce,Produce
+294,Super,Super Canola Oil,Super,Oil,Pantry
+295,Super,Super Grape Preserves,Super,Preserves,Miscellaneous
+296,Super,Super Columbian Coffee,Super,Coffee,Beverage
+297,Super,Super Strawberry Jelly,Super,Jelly,Pantry
+298,Super,Super Pepper,Super,Pepper,Pantry
+299,Super,Super Low Fat Apple Butter,Super,Butter,Produce
+300,Super,Super Salt,Super,Salt,Pantry
+301,Super,Super Apple Butter,Super,Butter,Produce
+302,Super,Super Oregano,Super,Oregano,Miscellaneous
+303,Super,Super Apple Jelly,Super,Jelly,Produce
+304,Super,Super Grape Jam,Super,Jam,Pantry
+305,Super,Super Apple Jam,Super,Jam,Produce
+306,Super,Super Strawberry Jam,Super,Jam,Pantry
+307,Super,Super Creamy Peanut Butter,Super,Butter,Produce
+308,Super,Super Strawberry Preserves,Super,Preserves,Miscellaneous
+309,Super,Super Extra Chunky Peanut Butter,Super,Butter,Produce
+310,Super,Super Apple Preserves,Super,Preserves,Produce
+311,Super,Super Grape Jelly,Super,Jelly,Pantry
+312,Excellent,Excellent Berry Juice,Market Beverage,Juice,Beverage
+313,Excellent,Excellent Mango Drink,Market Beverage,Drink,Beverage
+314,Excellent,Excellent Strawberry Drink,Market Beverage,Drink,Beverage
+315,Excellent,Excellent Cream Soda,Market Beverage,Soda,Beverage
+316,Excellent,Excellent Diet Soda,Market Beverage,Soda,Beverage
+317,Excellent,Excellent Cola,Market Beverage,Cola,Beverage
+318,Excellent,Excellent Diet Cola,Market Beverage,Cola,Beverage
+319,Excellent,Excellent Orange Juice,Market Beverage,Juice,Beverage
+320,Excellent,Excellent Cranberry Juice,Market Beverage,Juice,Beverage
+321,Excellent,Excellent Apple Juice,Market Beverage,Juice,Beverage
+322,Excellent,Excellent Apple Drink,Market Beverage,Drink,Beverage
+323,Best,Best Oatmeal,Market Snacks/Frozen,Oatmeal,Snacks/Frozen
+324,Best,Best Corn Puffs,Market Produce,Puffs,Produce
+325,Best,Best Wheat Puffs,Market Snacks/Frozen,Puffs,Snacks/Frozen
+326,Best,Best Grits,Market Snacks/Frozen,Grits,Snacks/Frozen
+327,Better,Better Canned Beets,Better,Beets,Produce
+328,Better,Better Creamed Corn,Better,Corn,Produce
+329,Better,Better Canned String Beans,Better,Beans,Produce
+330,Better,Better Chicken Soup,Better,Soup,Meat/Seafood
+331,Better,Better Canned Yams,Better,Yams,Produce
+332,Better,Better Vegetable Soup,Better,Soup,Produce
+333,Better,Better Canned Tomatos,Better,Tomatos,Produce
+334,Better,Better Noodle Soup,Better,Soup,Bakery/Pasta
+335,Better,Better Regular Ramen Soup,Better,Soup,Bakery/Pasta
+336,Better,Better Chicken Noodle Soup,Better,Soup,Bakery/Pasta
+337,Better,Better Turkey Noodle Soup,Better,Soup,Bakery/Pasta
+338,Better,Better Beef Soup,Better,Soup,Meat/Seafood
+339,Better,Better Canned Peas,Better,Peas,Produce
+340,Better,Better Chicken Ramen Soup,Better,Soup,Bakery/Pasta
+341,Better,Better Canned Tuna in Water,Better,Water,Beverage
+342,Better,Better Canned Tuna in Oil,Better,Oil,Produce
+343,Better,Better Large Canned Shrimp,Better,Shrimp,Produce
+344,Better,Better Fancy Canned Anchovies,Better,Anchovies,Produce
+345,Better,Better Fancy Canned Clams,Better,Clams,Produce
+346,Better,Better Fancy Canned Oysters,Better,Oysters,Produce
+347,Better,Better Fancy Canned Sardines,Better,Sardines,Produce
+348,Better,Better Rice Soup,Better,Soup,Pantry
+349,Swell,Swell Canned Mixed Fruit,Market Produce,Fruit,Produce
+350,Swell,Swell Canned Peaches,Market Produce,Peaches,Produce
+351,ADJ,ADJ Rosy Sunglasses,Market Household,Sunglasses,Household
+352,Black Tie,Black Tie Eyeglass Screwdriver,Market Household,Screwdriver,Household
+353,Black Tie,Black Tie City Map,Market Household,Map,Household
+354,Carlson,Carlson Low Fat Cottage Cheese,Carlson,Cheese,Dairy
+355,Carlson,Carlson Low Fat Sour Cream,Carlson,Cream,Dairy
+356,Carlson,Carlson Sour Cream,Carlson,Cream,Dairy
+357,Carlson,Carlson Jack Cheese,Carlson,Cheese,Dairy
+358,Carlson,Carlson Muenster Cheese,Carlson,Cheese,Dairy
+359,Carlson,Carlson String Cheese,Carlson,Cheese,Dairy
+360,Carlson,Carlson Low Fat String Cheese,Carlson,Cheese,Dairy
+361,Carlson,Carlson Havarti Cheese,Carlson,Cheese,Dairy
+362,Carlson,Carlson Head Cheese,Carlson,Cheese,Dairy
+363,Carlson,Carlson Cheese Spread,Carlson,Spread,Dairy
+364,Carlson,Carlson Sharp Cheddar Cheese,Carlson,Cheese,Dairy
+365,Carlson,Carlson Mild Cheddar Cheese,Carlson,Cheese,Dairy
+366,Carlson,Carlson Large Curd Cottage Cheese,Carlson,Cheese,Dairy
+367,Carlson,Carlson 2% Milk,Carlson,Milk,Beverage
+368,Carlson,Carlson Buttermilk,Carlson,Buttermilk,Beverage
+369,Carlson,Carlson Chocolate Milk,Carlson,Milk,Beverage
+370,Carlson,Carlson 1% Milk,Carlson,Milk,Beverage
+371,Carlson,Carlson Whole Milk,Carlson,Milk,Beverage
+372,Carlson,Carlson Strawberry Yogurt,Carlson,Yogurt,Dairy
+373,Carlson,Carlson Blueberry Yogurt,Carlson,Yogurt,Dairy
+374,Moms,Moms Chicken Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+375,Moms,Moms Pimento Loaf,Market Produce,Loaf,Produce
+376,Moms,Moms Beef Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+377,Moms,Moms Low Fat Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+378,Moms,Moms Turkey Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+379,Moms,Moms Foot-Long Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+380,Moms,Moms Low Fat Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+381,Moms,Moms Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+382,Moms,Moms Roasted Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+383,Moms,Moms Corned Beef,Market Produce,Beef,Produce
+384,Moms,Moms Sliced Turkey,Market Meat/Seafood,Turkey,Meat/Seafood
+385,Moms,Moms Sliced Ham,Market Meat/Seafood,Ham,Meat/Seafood
+386,Moms,Moms Potato Salad,Market Produce,Salad,Produce
+387,Moms,Moms Sliced Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+388,Urban,Urban Small Brown Eggs,Market Dairy,Eggs,Dairy
+389,Urban,Urban Large Brown Eggs,Market Dairy,Eggs,Dairy
+390,Urban,Urban Small Eggs,Market Dairy,Eggs,Dairy
+391,Urban,Urban Large Eggs,Market Dairy,Eggs,Dairy
+392,Urban,Urban Egg Substitute,Market Dairy,Substitute,Dairy
+393,Big Time,Big Time Low Fat Waffles,Big Time,Waffles,Snacks/Frozen
+394,Big Time,Big Time Orange Popsicles,Big Time,Popsicles,Snacks/Frozen
+395,Big Time,Big Time Frozen Chicken Breast,Big Time,Breast,Produce
+396,Big Time,Big Time Frozen Pancakes,Big Time,Pancakes,Produce
+397,Big Time,Big Time Low Fat French Fries,Big Time,Fries,Snacks/Frozen
+398,Big Time,Big Time Frozen Sausage Pizza,Big Time,Pizza,Produce
+399,Big Time,Big Time Blueberry Waffles,Big Time,Waffles,Snacks/Frozen
+400,Big Time,Big Time Fajita French Fries,Big Time,Fries,Snacks/Frozen
+401,Big Time,Big Time Waffles,Big Time,Waffles,Snacks/Frozen
+402,Big Time,Big Time Frozen Pepperoni Pizza,Big Time,Pizza,Produce
+403,Big Time,Big Time Frozen Cheese Pizza,Big Time,Pizza,Produce
+404,Big Time,Big Time Frozen Mushroom Pizza,Big Time,Pizza,Produce
+405,Big Time,Big Time Apple Cinnamon Waffles,Big Time,Waffles,Produce
+406,Big Time,Big Time Frozen Carrots,Big Time,Carrots,Produce
+407,Big Time,Big Time Turkey TV Dinner,Big Time,Dinner,Meat/Seafood
+408,Big Time,Big Time Chicken TV Dinner,Big Time,Dinner,Meat/Seafood
+409,Big Time,Big Time Beef TV Dinner,Big Time,Dinner,Meat/Seafood
+410,Big Time,Big Time Pancake Mix,Big Time,Mix,Bakery/Pasta
+411,Big Time,Big Time Grape Popsicles,Big Time,Popsicles,Snacks/Frozen
+412,Big Time,Big Time Home Style French Fries,Big Time,Fries,Snacks/Frozen
+413,Big Time,Big Time Lime Popsicles,Big Time,Popsicles,Snacks/Frozen
+414,Big Time,Big Time Ice Cream,Big Time,Cream,Dairy
+415,Big Time,Big Time Ice Cream Sandwich,Big Time,Sandwich,Dairy
+416,Big Time,Big Time Frozen Cauliflower,Big Time,Cauliflower,Produce
+417,Big Time,Big Time Frozen Broccoli,Big Time,Broccoli,Produce
+418,Big Time,Big Time Frozen Corn,Big Time,Corn,Produce
+419,Big Time,Big Time Frozen Peas,Big Time,Peas,Produce
+420,Big Time,Big Time Popsicles,Big Time,Popsicles,Snacks/Frozen
+421,Big Time,Big Time Frozen Chicken Thighs,Big Time,Thighs,Produce
+422,Big Time,Big Time Frozen Chicken Wings,Big Time,Wings,Produce
+423,Big Time,Big Time Lemon Popsicles,Big Time,Popsicles,Snacks/Frozen
+424,Steady,Steady Silky Smooth Hair Conditioner,Steady,Conditioner,Beverage
+425,Steady,Steady Tartar Control Toothpaste,Steady,Toothpaste,Beverage
+426,Steady,Steady Whitening Toothpast,Steady,Toothpast,Beverage
+427,Steady,Steady Toothpaste,Steady,Toothpaste,Beverage
+428,Steady,Steady Deodorant,Steady,Deodorant,Beverage
+429,Steady,Steady Conditioning Shampoo,Steady,Shampoo,Beverage
+430,Steady,Steady Extra Moisture Shampoo,Steady,Shampoo,Beverage
+431,Steady,Steady Angled Toothbrush,Steady,Toothbrush,Beverage
+432,Steady,Steady Apricot Shampoo,Steady,Shampoo,Beverage
+433,Steady,Steady Childrens Aspirin,Steady,Aspirin,Beverage
+434,Steady,Steady Buffered Aspirin,Steady,Aspirin,Beverage
+435,Steady,Steady 200 MG Ibuprofen,Steady,Ibuprofen,Beverage
+436,Steady,Steady 200 MG Acetominifen,Steady,Acetominifen,Beverage
+437,Steady,Steady HCL Nasal Spray,Steady,Spray,Beverage
+438,Steady,Steady Dishwasher Detergent,Steady,Detergent,Beverage
+439,Steady,Steady Multi-Symptom Cold Remedy,Steady,Remedy,Beverage
+440,Steady,Steady Childrens Cold Remedy,Steady,Remedy,Beverage
+441,Steady,Steady Laundry Detergent,Steady,Detergent,Beverage
+442,Steady,Steady Mint Mouthwash,Steady,Mouthwash,Beverage
+443,Red Wing,Red Wing 60 Watt Lightbulb,Red Wing,Lightbulb,Household
+444,Red Wing,Red Wing Plastic Forks,Red Wing,Forks,Household
+445,Red Wing,Red Wing Plastic Spoons,Red Wing,Spoons,Household
+446,Red Wing,Red Wing Plastic Knives,Red Wing,Knives,Household
+447,Red Wing,Red Wing C-Size Batteries,Red Wing,Batteries,Miscellaneous
+448,Red Wing,Red Wing 100 Watt Lightbulb,Red Wing,Lightbulb,Household
+449,Red Wing,Red Wing AAA-Size Batteries,Red Wing,Batteries,Miscellaneous
+450,Red Wing,Red Wing Paper Plates,Red Wing,Plates,Household
+451,Red Wing,Red Wing Paper Cups,Red Wing,Cups,Household
+452,Red Wing,Red Wing 75 Watt Lightbulb,Red Wing,Lightbulb,Household
+453,Red Wing,Red Wing Toilet Bowl Cleaner,Red Wing,Cleaner,Household
+454,Red Wing,Red Wing Counter Cleaner,Red Wing,Cleaner,Household
+455,Red Wing,Red Wing Glass Cleaner,Red Wing,Cleaner,Household
+456,Red Wing,Red Wing 25 Watt Lightbulb,Red Wing,Lightbulb,Household
+457,Red Wing,Red Wing AA-Size Batteries,Red Wing,Batteries,Miscellaneous
+458,Red Wing,Red Wing D-Size Batteries,Red Wing,Batteries,Miscellaneous
+459,Red Wing,Red Wing Paper Towels,Red Wing,Towels,Household
+460,Red Wing,Red Wing Soft Napkins,Red Wing,Napkins,Household
+461,Red Wing,Red Wing Scented Tissue,Red Wing,Tissue,Household
+462,Red Wing,Red Wing Toilet Paper,Red Wing,Paper,Household
+463,Red Wing,Red Wing Tissues,Red Wing,Tissues,Household
+464,Red Wing,Red Wing Scented Toilet Tissue,Red Wing,Tissue,Household
+465,Red Wing,Red Wing Room Freshener,Red Wing,Freshener,Produce
+466,Red Wing,Red Wing Frying Pan,Red Wing,Pan,Miscellaneous
+467,Red Wing,Red Wing Copper Cleaner,Red Wing,Cleaner,Household
+468,Red Wing,Red Wing Bees Wax Candles,Red Wing,Candles,Miscellaneous
+469,Red Wing,Red Wing Silver Cleaner,Red Wing,Cleaner,Household
+470,Red Wing,Red Wing Copper Pot Scrubber,Red Wing,Scrubber,Miscellaneous
+471,Red Wing,Red Wing Economy Toilet Brush,Red Wing,Brush,Pantry
+472,Red Wing,Red Wing Scissors,Red Wing,Scissors,Miscellaneous
+473,Red Wing,Red Wing Large Sponge,Red Wing,Sponge,Miscellaneous
+474,Red Wing,Red Wing Screw Driver,Red Wing,Driver,Miscellaneous
+475,Quick,Quick Extra Lean Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+476,Quick,Quick Seasoned Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+477,Dollar,Dollar Monthly Sports Magazine,Market Media,Magazine,Media
+478,Dollar,Dollar Monthly Auto Magazine,Market Media,Magazine,Media
+479,Dollar,Dollar Monthly Computer Magazine,Market Media,Magazine,Media
+480,Dollar,Dollar Monthly Home Magazine,Market Media,Magazine,Media
+481,Dollar,Dollar Monthly Fashion Magazine,Market Media,Magazine,Media
+482,Tell Tale,Tell Tale Summer Squash,Tell Tale,Squash,Miscellaneous
+483,Tell Tale,Tell Tale Corn on the Cob,Tell Tale,Cob,Produce
+484,Tell Tale,Tell Tale Asparagus,Tell Tale,Asparagus,Produce
+485,Tell Tale,Tell Tale Sweet Peas,Tell Tale,Peas,Produce
+486,Tell Tale,Tell Tale New Potatos,Tell Tale,Potatos,Produce
+487,Tell Tale,Tell Tale Beets,Tell Tale,Beets,Produce
+488,Tell Tale,Tell Tale Prepared Salad,Tell Tale,Salad,Miscellaneous
+489,Tell Tale,Tell Tale Onions,Tell Tale,Onions,Produce
+490,Tell Tale,Tell Tale Green Pepper,Tell Tale,Pepper,Pantry
+491,Tell Tale,Tell Tale Shitake Mushrooms,Tell Tale,Mushrooms,Produce
+492,Tell Tale,Tell Tale Lettuce,Tell Tale,Lettuce,Produce
+493,Tell Tale,Tell Tale Elephant Garlic,Tell Tale,Garlic,Produce
+494,Tell Tale,Tell Tale Red Pepper,Tell Tale,Pepper,Pantry
+495,Tell Tale,Tell Tale Garlic,Tell Tale,Garlic,Produce
+496,Tell Tale,Tell Tale Potatos,Tell Tale,Potatos,Produce
+497,Tell Tale,Tell Tale Cauliflower,Tell Tale,Cauliflower,Produce
+498,Tell Tale,Tell Tale Tomatos,Tell Tale,Tomatos,Produce
+499,Tell Tale,Tell Tale Mushrooms,Tell Tale,Mushrooms,Produce
+500,Tell Tale,Tell Tale Baby Onion,Tell Tale,Onion,Produce
+501,Tell Tale,Tell Tale Dried Mushrooms,Tell Tale,Mushrooms,Produce
+502,Tell Tale,Tell Tale Fresh Lima Beans,Tell Tale,Beans,Produce
+503,Tell Tale,Tell Tale Squash,Tell Tale,Squash,Miscellaneous
+504,Tell Tale,Tell Tale Limes,Tell Tale,Limes,Miscellaneous
+505,Tell Tale,Tell Tale Firm Tofu,Tell Tale,Tofu,Miscellaneous
+506,Tell Tale,Tell Tale Almonds,Tell Tale,Almonds,Miscellaneous
+507,Tell Tale,Tell Tale Macintosh Apples,Tell Tale,Apples,Produce
+508,Tell Tale,Tell Tale Golden Delcious Apples,Tell Tale,Apples,Produce
+509,Tell Tale,Tell Tale Red Delcious Apples,Tell Tale,Apples,Produce
+510,Tell Tale,Tell Tale Lemons,Tell Tale,Lemons,Miscellaneous
+511,Tell Tale,Tell Tale Fancy Plums,Tell Tale,Plums,Miscellaneous
+512,Tell Tale,Tell Tale Plums,Tell Tale,Plums,Miscellaneous
+513,Tell Tale,Tell Tale Peaches,Tell Tale,Peaches,Produce
+514,Tell Tale,Tell Tale Broccoli,Tell Tale,Broccoli,Produce
+515,Tell Tale,Tell Tale Mandarin Oranges,Tell Tale,Oranges,Miscellaneous
+516,Tell Tale,Tell Tale Mixed Nuts,Tell Tale,Nuts,Produce
+517,Tell Tale,Tell Tale Canned Peanuts,Tell Tale,Peanuts,Produce
+518,Tell Tale,Tell Tale Sweet Onion,Tell Tale,Onion,Produce
+519,Tell Tale,Tell Tale Cantelope,Tell Tale,Cantelope,Miscellaneous
+520,Tell Tale,Tell Tale Honey Dew,Tell Tale,Dew,Pantry
+521,Tell Tale,Tell Tale Fuji Apples,Tell Tale,Apples,Produce
+522,Tell Tale,Tell Tale Walnuts,Tell Tale,Walnuts,Produce
+523,Tell Tale,Tell Tale Oranges,Tell Tale,Oranges,Miscellaneous
+524,Tell Tale,Tell Tale Tangerines,Tell Tale,Tangerines,Miscellaneous
+525,Tell Tale,Tell Tale Party Nuts,Tell Tale,Nuts,Produce
+526,Kiwi,Kiwi Lox,Market Meat/Seafood,Lox,Meat/Seafood
+527,Kiwi,Kiwi Scallops,Market Meat/Seafood,Scallops,Meat/Seafood
+528,Fast,Fast Low Fat Cookies,Fast,Cookies,Snacks/Frozen
+529,Fast,Fast BBQ Potato Chips,Fast,Chips,Produce
+530,Fast,Fast Corn Chips,Fast,Chips,Produce
+531,Fast,Fast Low Fat BBQ Chips,Fast,Chips,Snacks/Frozen
+532,Fast,Fast Sugar Cookies,Fast,Cookies,Snacks/Frozen
+533,Fast,Fast Chocolate Chip Cookies,Fast,Cookies,Beverage
+534,Fast,Fast Fudge Cookies,Fast,Cookies,Snacks/Frozen
+535,Fast,Fast Fudge Brownies,Fast,Brownies,Miscellaneous
+536,Fast,Fast Potato Chips,Fast,Chips,Produce
+537,Fast,Fast Lemon Cookies,Fast,Cookies,Snacks/Frozen
+538,Fast,Fast Graham Crackers,Fast,Crackers,Snacks/Frozen
+539,Fast,Fast Cheese Crackers,Fast,Crackers,Dairy
+540,Fast,Fast Buttered Popcorn,Fast,Popcorn,Produce
+541,Fast,Fast No Salt Popcorn,Fast,Popcorn,Produce
+542,Fast,Fast Low Fat Popcorn,Fast,Popcorn,Produce
+543,Fast,Fast Salsa Dip,Fast,Dip,Miscellaneous
+544,Fast,Fast Avocado Dip,Fast,Dip,Miscellaneous
+545,Fast,Fast Salted Pretzels,Fast,Pretzels,Snacks/Frozen
+546,Fast,Fast Cheese Dip,Fast,Dip,Dairy
+547,Fast,Fast Fondue Mix,Fast,Mix,Miscellaneous
+548,Fast,Fast Mini Donuts,Fast,Donuts,Produce
+549,Fast,Fast Beef Jerky,Fast,Jerky,Meat/Seafood
+550,Fast,Fast Chocolate Donuts,Fast,Donuts,Beverage
+551,Fast,Fast Low Fat Chips,Fast,Chips,Snacks/Frozen
+552,Fast,Fast Sesame Crackers,Fast,Crackers,Snacks/Frozen
+553,Fast,Fast Frosted Cookies,Fast,Cookies,Snacks/Frozen
+554,Fast,Fast Dried Apples,Fast,Apples,Produce
+555,Fast,Fast Apple Fruit Roll,Fast,Roll,Produce
+556,Fast,Fast Strawberry Fruit Roll,Fast,Roll,Produce
+557,Fast,Fast Raspberry Fruit Roll,Fast,Roll,Produce
+558,Fast,Fast Grape Fruit Roll,Fast,Roll,Produce
+559,Fast,Fast Dried Dates,Fast,Dates,Produce
+560,Fast,Fast Raisins,Fast,Raisins,Miscellaneous
+561,Fast,Fast Golden Raisins,Fast,Raisins,Miscellaneous
+562,Fast,Fast Dried Apricots,Fast,Apricots,Produce
+563,Fast,Fast Frosted Donuts,Fast,Donuts,Produce
+564,Atomic,Atomic Tasty Candy Bar,Market Snacks/Frozen,Bar,Snacks/Frozen
+565,Atomic,Atomic Mint Chocolate Bar,Market Beverage,Bar,Beverage
+566,Atomic,Atomic Malted Milk Balls,Market Beverage,Balls,Beverage
+567,Atomic,Atomic Semi-Sweet Chocolate Bar,Market Beverage,Bar,Beverage
+568,Atomic,Atomic Bubble Gum,Market Snacks/Frozen,Gum,Snacks/Frozen
+569,Atomic,Atomic Spicy Mints,Market Miscellaneous,Mints,Miscellaneous
+570,Atomic,Atomic Mints,Market Miscellaneous,Mints,Miscellaneous
+571,Atomic,Atomic White Chocolate Bar,Market Beverage,Bar,Beverage
+572,Shady Lake,Shady Lake Ravioli,Market Miscellaneous,Ravioli,Miscellaneous
+573,Shady Lake,Shady Lake Manicotti,Market Miscellaneous,Manicotti,Miscellaneous
+574,Shady Lake,Shady Lake Spaghetti,Market Bakery/Pasta,Spaghetti,Bakery/Pasta
+575,Shady Lake,Shady Lake Thai Rice,Market Pantry,Rice,Pantry
+576,Shady Lake,Shady Lake Rice Medly,Market Pantry,Medly,Pantry
+577,Walrus,Walrus Imported Beer,Market Beverage,Beer,Beverage
+578,Walrus,Walrus Light Wine,Market Beverage,Wine,Beverage
+579,Walrus,Walrus Chardonnay Wine,Market Beverage,Wine,Beverage
+580,Walrus,Walrus Chablis Wine,Market Beverage,Wine,Beverage
+581,Walrus,Walrus Merlot Wine,Market Beverage,Wine,Beverage
+582,Walrus,Walrus Chardonnay,Market Miscellaneous,Chardonnay,Miscellaneous
+583,Walrus,Walrus White Zinfandel Wine,Market Beverage,Wine,Beverage
+584,Walrus,Walrus Light Beer,Market Beverage,Beer,Beverage
+585,Colony,Colony Pumpernickel Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+586,Colony,Colony White Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+587,Colony,Colony Rye Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+588,Colony,Colony English Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+589,Colony,Colony Cranberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+590,Colony,Colony Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+591,Colony,Colony Bagels,Market Bakery/Pasta,Bagels,Bakery/Pasta
+592,Colony,Colony Blueberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+593,Colony,Colony Wheat Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+594,Landslide,Landslide Sesame Oil,Landslide,Oil,Pantry
+595,Landslide,Landslide Chunky Peanut Butter,Landslide,Butter,Produce
+596,Landslide,Landslide Hot Chocolate,Landslide,Chocolate,Beverage
+597,Landslide,Landslide Brown Sugar,Landslide,Sugar,Pantry
+598,Landslide,Landslide White Sugar,Landslide,Sugar,Pantry
+599,Landslide,Landslide French Roast Coffee,Landslide,Coffee,Beverage
+600,Landslide,Landslide Decaf Coffee,Landslide,Coffee,Beverage
+601,Landslide,Landslide Regular Coffee,Landslide,Coffee,Beverage
+602,Landslide,Landslide Vegetable Oil,Landslide,Oil,Produce
+603,Landslide,Landslide Corn Oil,Landslide,Oil,Produce
+604,Landslide,Landslide Tomato Sauce,Landslide,Sauce,Produce
+605,Landslide,Landslide Canola Oil,Landslide,Oil,Pantry
+606,Landslide,Landslide Grape Preserves,Landslide,Preserves,Miscellaneous
+607,Landslide,Landslide Columbian Coffee,Landslide,Coffee,Beverage
+608,Landslide,Landslide Strawberry Jelly,Landslide,Jelly,Pantry
+609,Landslide,Landslide Pepper,Landslide,Pepper,Pantry
+610,Landslide,Landslide Low Fat Apple Butter,Landslide,Butter,Produce
+611,Landslide,Landslide Salt,Landslide,Salt,Pantry
+612,Landslide,Landslide Apple Butter,Landslide,Butter,Produce
+613,Landslide,Landslide Oregano,Landslide,Oregano,Miscellaneous
+614,Landslide,Landslide Apple Jelly,Landslide,Jelly,Produce
+615,Landslide,Landslide Grape Jam,Landslide,Jam,Pantry
+616,Landslide,Landslide Apple Jam,Landslide,Jam,Produce
+617,Landslide,Landslide Strawberry Jam,Landslide,Jam,Pantry
+618,Landslide,Landslide Creamy Peanut Butter,Landslide,Butter,Produce
+619,Landslide,Landslide Strawberry Preserves,Landslide,Preserves,Miscellaneous
+620,Landslide,Landslide Extra Chunky Peanut Butter,Landslide,Butter,Produce
+621,Landslide,Landslide Apple Preserves,Landslide,Preserves,Produce
+622,Landslide,Landslide Grape Jelly,Landslide,Jelly,Pantry
+623,Token,Token Berry Juice,Market Beverage,Juice,Beverage
+624,Token,Token Mango Drink,Market Beverage,Drink,Beverage
+625,Token,Token Strawberry Drink,Market Beverage,Drink,Beverage
+626,Token,Token Cream Soda,Market Beverage,Soda,Beverage
+627,Token,Token Diet Soda,Market Beverage,Soda,Beverage
+628,Token,Token Cola,Market Beverage,Cola,Beverage
+629,Token,Token Diet Cola,Market Beverage,Cola,Beverage
+630,Token,Token Orange Juice,Market Beverage,Juice,Beverage
+631,Token,Token Cranberry Juice,Market Beverage,Juice,Beverage
+632,Token,Token Apple Juice,Market Beverage,Juice,Beverage
+633,Token,Token Apple Drink,Market Beverage,Drink,Beverage
+634,Radius,Radius Oatmeal,Market Snacks/Frozen,Oatmeal,Snacks/Frozen
+635,Radius,Radius Corn Puffs,Market Produce,Puffs,Produce
+636,Radius,Radius Wheat Puffs,Market Snacks/Frozen,Puffs,Snacks/Frozen
+637,Radius,Radius Grits,Market Snacks/Frozen,Grits,Snacks/Frozen
+638,Bravo,Bravo Canned Beets,Bravo,Beets,Produce
+639,Bravo,Bravo Creamed Corn,Bravo,Corn,Produce
+640,Bravo,Bravo Canned String Beans,Bravo,Beans,Produce
+641,Bravo,Bravo Chicken Soup,Bravo,Soup,Meat/Seafood
+642,Bravo,Bravo Canned Yams,Bravo,Yams,Produce
+643,Bravo,Bravo Vegetable Soup,Bravo,Soup,Produce
+644,Bravo,Bravo Canned Tomatos,Bravo,Tomatos,Produce
+645,Bravo,Bravo Noodle Soup,Bravo,Soup,Bakery/Pasta
+646,Bravo,Bravo Regular Ramen Soup,Bravo,Soup,Bakery/Pasta
+647,Bravo,Bravo Chicken Noodle Soup,Bravo,Soup,Bakery/Pasta
+648,Bravo,Bravo Turkey Noodle Soup,Bravo,Soup,Bakery/Pasta
+649,Bravo,Bravo Beef Soup,Bravo,Soup,Meat/Seafood
+650,Bravo,Bravo Canned Peas,Bravo,Peas,Produce
+651,Bravo,Bravo Chicken Ramen Soup,Bravo,Soup,Bakery/Pasta
+652,Bravo,Bravo Canned Tuna in Water,Bravo,Water,Beverage
+653,Bravo,Bravo Canned Tuna in Oil,Bravo,Oil,Produce
+654,Bravo,Bravo Large Canned Shrimp,Bravo,Shrimp,Produce
+655,Bravo,Bravo Fancy Canned Anchovies,Bravo,Anchovies,Produce
+656,Bravo,Bravo Fancy Canned Clams,Bravo,Clams,Produce
+657,Bravo,Bravo Fancy Canned Oysters,Bravo,Oysters,Produce
+658,Bravo,Bravo Fancy Canned Sardines,Bravo,Sardines,Produce
+659,Bravo,Bravo Rice Soup,Bravo,Soup,Pantry
+660,Applause,Applause Canned Mixed Fruit,Market Produce,Fruit,Produce
+661,Applause,Applause Canned Peaches,Market Produce,Peaches,Produce
+662,Prelude,Prelude Rosy Sunglasses,Market Household,Sunglasses,Household
+663,Akron,Akron Eyeglass Screwdriver,Market Household,Screwdriver,Household
+664,Akron,Akron City Map,Market Household,Map,Household
+665,Gorilla,Gorilla Low Fat Cottage Cheese,Gorilla,Cheese,Dairy
+666,Gorilla,Gorilla Low Fat Sour Cream,Gorilla,Cream,Dairy
+667,Gorilla,Gorilla Sour Cream,Gorilla,Cream,Dairy
+668,Gorilla,Gorilla Jack Cheese,Gorilla,Cheese,Dairy
+669,Gorilla,Gorilla Muenster Cheese,Gorilla,Cheese,Dairy
+670,Gorilla,Gorilla String Cheese,Gorilla,Cheese,Dairy
+671,Gorilla,Gorilla Low Fat String Cheese,Gorilla,Cheese,Dairy
+672,Gorilla,Gorilla Havarti Cheese,Gorilla,Cheese,Dairy
+673,Gorilla,Gorilla Head Cheese,Gorilla,Cheese,Dairy
+674,Gorilla,Gorilla Cheese Spread,Gorilla,Spread,Dairy
+675,Gorilla,Gorilla Sharp Cheddar Cheese,Gorilla,Cheese,Dairy
+676,Gorilla,Gorilla Mild Cheddar Cheese,Gorilla,Cheese,Dairy
+677,Gorilla,Gorilla Large Curd Cottage Cheese,Gorilla,Cheese,Dairy
+678,Gorilla,Gorilla 2% Milk,Gorilla,Milk,Beverage
+679,Gorilla,Gorilla Buttermilk,Gorilla,Buttermilk,Beverage
+680,Gorilla,Gorilla Chocolate Milk,Gorilla,Milk,Beverage
+681,Gorilla,Gorilla 1% Milk,Gorilla,Milk,Beverage
+682,Gorilla,Gorilla Whole Milk,Gorilla,Milk,Beverage
+683,Gorilla,Gorilla Strawberry Yogurt,Gorilla,Yogurt,Dairy
+684,Gorilla,Gorilla Blueberry Yogurt,Gorilla,Yogurt,Dairy
+685,Cutting Edge,Cutting Edge Chicken Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+686,Cutting Edge,Cutting Edge Pimento Loaf,Market Produce,Loaf,Produce
+687,Cutting Edge,Cutting Edge Beef Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+688,Cutting Edge,Cutting Edge Low Fat Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+689,Cutting Edge,Cutting Edge Turkey Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+690,Cutting Edge,Cutting Edge Foot-Long Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+691,Cutting Edge,Cutting Edge Low Fat Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+692,Cutting Edge,Cutting Edge Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+693,Cutting Edge,Cutting Edge Roasted Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+694,Cutting Edge,Cutting Edge Corned Beef,Market Produce,Beef,Produce
+695,Cutting Edge,Cutting Edge Sliced Turkey,Market Meat/Seafood,Turkey,Meat/Seafood
+696,Cutting Edge,Cutting Edge Sliced Ham,Market Meat/Seafood,Ham,Meat/Seafood
+697,Cutting Edge,Cutting Edge Potato Salad,Market Produce,Salad,Produce
+698,Cutting Edge,Cutting Edge Sliced Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+699,Jumbo,Jumbo Small Brown Eggs,Market Dairy,Eggs,Dairy
+700,Jumbo,Jumbo Large Brown Eggs,Market Dairy,Eggs,Dairy
+701,Jumbo,Jumbo Small Eggs,Market Dairy,Eggs,Dairy
+702,Jumbo,Jumbo Large Eggs,Market Dairy,Eggs,Dairy
+703,Jumbo,Jumbo Egg Substitute,Market Dairy,Substitute,Dairy
+704,Imagine,Imagine Low Fat Waffles,Imagine,Waffles,Snacks/Frozen
+705,Imagine,Imagine Orange Popsicles,Imagine,Popsicles,Snacks/Frozen
+706,Imagine,Imagine Frozen Chicken Breast,Imagine,Breast,Produce
+707,Imagine,Imagine Frozen Pancakes,Imagine,Pancakes,Produce
+708,Imagine,Imagine Low Fat French Fries,Imagine,Fries,Snacks/Frozen
+709,Imagine,Imagine Frozen Sausage Pizza,Imagine,Pizza,Produce
+710,Imagine,Imagine Blueberry Waffles,Imagine,Waffles,Snacks/Frozen
+711,Imagine,Imagine Fajita French Fries,Imagine,Fries,Snacks/Frozen
+712,Imagine,Imagine Waffles,Imagine,Waffles,Snacks/Frozen
+713,Imagine,Imagine Frozen Pepperoni Pizza,Imagine,Pizza,Produce
+714,Imagine,Imagine Frozen Cheese Pizza,Imagine,Pizza,Produce
+715,Imagine,Imagine Frozen Mushroom Pizza,Imagine,Pizza,Produce
+716,Imagine,Imagine Apple Cinnamon Waffles,Imagine,Waffles,Produce
+717,Imagine,Imagine Frozen Carrots,Imagine,Carrots,Produce
+718,Imagine,Imagine Turkey TV Dinner,Imagine,Dinner,Meat/Seafood
+719,Imagine,Imagine Chicken TV Dinner,Imagine,Dinner,Meat/Seafood
+720,Imagine,Imagine Beef TV Dinner,Imagine,Dinner,Meat/Seafood
+721,Imagine,Imagine Pancake Mix,Imagine,Mix,Bakery/Pasta
+722,Imagine,Imagine Grape Popsicles,Imagine,Popsicles,Snacks/Frozen
+723,Imagine,Imagine Home Style French Fries,Imagine,Fries,Snacks/Frozen
+724,Imagine,Imagine Lime Popsicles,Imagine,Popsicles,Snacks/Frozen
+725,Imagine,Imagine Ice Cream,Imagine,Cream,Dairy
+726,Imagine,Imagine Ice Cream Sandwich,Imagine,Sandwich,Dairy
+727,Imagine,Imagine Frozen Cauliflower,Imagine,Cauliflower,Produce
+728,Imagine,Imagine Frozen Broccoli,Imagine,Broccoli,Produce
+729,Imagine,Imagine Frozen Corn,Imagine,Corn,Produce
+730,Imagine,Imagine Frozen Peas,Imagine,Peas,Produce
+731,Imagine,Imagine Popsicles,Imagine,Popsicles,Snacks/Frozen
+732,Imagine,Imagine Frozen Chicken Thighs,Imagine,Thighs,Produce
+733,Imagine,Imagine Frozen Chicken Wings,Imagine,Wings,Produce
+734,Imagine,Imagine Lemon Popsicles,Imagine,Popsicles,Snacks/Frozen
+735,Consolidated,Consolidated Silky Smooth Hair Conditioner,Consolidated,Conditioner,Personal Care
+736,Consolidated,Consolidated Tartar Control Toothpaste,Consolidated,Toothpaste,Personal Care
+737,Consolidated,Consolidated Whitening Toothpast,Consolidated,Toothpast,Miscellaneous
+738,Consolidated,Consolidated Toothpaste,Consolidated,Toothpaste,Personal Care
+739,Consolidated,Consolidated Deodorant,Consolidated,Deodorant,Personal Care
+740,Consolidated,Consolidated Conditioning Shampoo,Consolidated,Shampoo,Meat/Seafood
+741,Consolidated,Consolidated Extra Moisture Shampoo,Consolidated,Shampoo,Meat/Seafood
+742,Consolidated,Consolidated Angled Toothbrush,Consolidated,Toothbrush,Miscellaneous
+743,Consolidated,Consolidated Apricot Shampoo,Consolidated,Shampoo,Meat/Seafood
+744,Consolidated,Consolidated Childrens Aspirin,Consolidated,Aspirin,Personal Care
+745,Consolidated,Consolidated Buffered Aspirin,Consolidated,Aspirin,Personal Care
+746,Consolidated,Consolidated 200 MG Ibuprofen,Consolidated,Ibuprofen,Miscellaneous
+747,Consolidated,Consolidated 200 MG Acetominifen,Consolidated,Acetominifen,Personal Care
+748,Consolidated,Consolidated HCL Nasal Spray,Consolidated,Spray,Miscellaneous
+749,Consolidated,Consolidated Dishwasher Detergent,Consolidated,Detergent,Household
+750,Consolidated,Consolidated Multi-Symptom Cold Remedy,Consolidated,Remedy,Personal Care
+751,Consolidated,Consolidated Childrens Cold Remedy,Consolidated,Remedy,Personal Care
+752,Consolidated,Consolidated Laundry Detergent,Consolidated,Detergent,Household
+753,Consolidated,Consolidated Mint Mouthwash,Consolidated,Mouthwash,Miscellaneous
+754,Cormorant,Cormorant 60 Watt Lightbulb,Cormorant,Lightbulb,Household
+755,Cormorant,Cormorant Plastic Forks,Cormorant,Forks,Household
+756,Cormorant,Cormorant Plastic Spoons,Cormorant,Spoons,Household
+757,Cormorant,Cormorant Plastic Knives,Cormorant,Knives,Household
+758,Cormorant,Cormorant C-Size Batteries,Cormorant,Batteries,Miscellaneous
+759,Cormorant,Cormorant 100 Watt Lightbulb,Cormorant,Lightbulb,Household
+760,Cormorant,Cormorant AAA-Size Batteries,Cormorant,Batteries,Miscellaneous
+761,Cormorant,Cormorant Paper Plates,Cormorant,Plates,Household
+762,Cormorant,Cormorant Paper Cups,Cormorant,Cups,Household
+763,Cormorant,Cormorant 75 Watt Lightbulb,Cormorant,Lightbulb,Household
+764,Cormorant,Cormorant Toilet Bowl Cleaner,Cormorant,Cleaner,Household
+765,Cormorant,Cormorant Counter Cleaner,Cormorant,Cleaner,Household
+766,Cormorant,Cormorant Glass Cleaner,Cormorant,Cleaner,Household
+767,Cormorant,Cormorant 25 Watt Lightbulb,Cormorant,Lightbulb,Household
+768,Cormorant,Cormorant AA-Size Batteries,Cormorant,Batteries,Miscellaneous
+769,Cormorant,Cormorant D-Size Batteries,Cormorant,Batteries,Miscellaneous
+770,Cormorant,Cormorant Paper Towels,Cormorant,Towels,Household
+771,Cormorant,Cormorant Soft Napkins,Cormorant,Napkins,Household
+772,Cormorant,Cormorant Scented Tissue,Cormorant,Tissue,Household
+773,Cormorant,Cormorant Toilet Paper,Cormorant,Paper,Household
+774,Cormorant,Cormorant Tissues,Cormorant,Tissues,Household
+775,Cormorant,Cormorant Scented Toilet Tissue,Cormorant,Tissue,Household
+776,Cormorant,Cormorant Room Freshener,Cormorant,Freshener,Produce
+777,Cormorant,Cormorant Frying Pan,Cormorant,Pan,Miscellaneous
+778,Cormorant,Cormorant Copper Cleaner,Cormorant,Cleaner,Household
+779,Cormorant,Cormorant Bees Wax Candles,Cormorant,Candles,Miscellaneous
+780,Cormorant,Cormorant Silver Cleaner,Cormorant,Cleaner,Household
+781,Cormorant,Cormorant Copper Pot Scrubber,Cormorant,Scrubber,Miscellaneous
+782,Cormorant,Cormorant Economy Toilet Brush,Cormorant,Brush,Pantry
+783,Cormorant,Cormorant Scissors,Cormorant,Scissors,Miscellaneous
+784,Cormorant,Cormorant Large Sponge,Cormorant,Sponge,Miscellaneous
+785,Cormorant,Cormorant Screw Driver,Cormorant,Driver,Miscellaneous
+786,Footnote,Footnote Extra Lean Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+787,Footnote,Footnote Seasoned Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+788,Excel,Excel Monthly Sports Magazine,Market Media,Magazine,Media
+789,Excel,Excel Monthly Auto Magazine,Market Media,Magazine,Media
+790,Excel,Excel Monthly Computer Magazine,Market Media,Magazine,Media
+791,Excel,Excel Monthly Home Magazine,Market Media,Magazine,Media
+792,Excel,Excel Monthly Fashion Magazine,Market Media,Magazine,Media
+793,Ebony,Ebony Summer Squash,Ebony,Squash,Miscellaneous
+794,Ebony,Ebony Corn on the Cob,Ebony,Cob,Produce
+795,Ebony,Ebony Asparagus,Ebony,Asparagus,Produce
+796,Ebony,Ebony Sweet Peas,Ebony,Peas,Produce
+797,Ebony,Ebony New Potatos,Ebony,Potatos,Produce
+798,Ebony,Ebony Beets,Ebony,Beets,Produce
+799,Ebony,Ebony Prepared Salad,Ebony,Salad,Miscellaneous
+800,Ebony,Ebony Onions,Ebony,Onions,Produce
+801,Ebony,Ebony Green Pepper,Ebony,Pepper,Pantry
+802,Ebony,Ebony Shitake Mushrooms,Ebony,Mushrooms,Produce
+803,Ebony,Ebony Lettuce,Ebony,Lettuce,Produce
+804,Ebony,Ebony Elephant Garlic,Ebony,Garlic,Produce
+805,Ebony,Ebony Red Pepper,Ebony,Pepper,Pantry
+806,Ebony,Ebony Garlic,Ebony,Garlic,Produce
+807,Ebony,Ebony Potatos,Ebony,Potatos,Produce
+808,Ebony,Ebony Cauliflower,Ebony,Cauliflower,Produce
+809,Ebony,Ebony Tomatos,Ebony,Tomatos,Produce
+810,Ebony,Ebony Mushrooms,Ebony,Mushrooms,Produce
+811,Ebony,Ebony Baby Onion,Ebony,Onion,Produce
+812,Ebony,Ebony Dried Mushrooms,Ebony,Mushrooms,Produce
+813,Ebony,Ebony Fresh Lima Beans,Ebony,Beans,Produce
+814,Ebony,Ebony Squash,Ebony,Squash,Miscellaneous
+815,Ebony,Ebony Limes,Ebony,Limes,Miscellaneous
+816,Ebony,Ebony Firm Tofu,Ebony,Tofu,Miscellaneous
+817,Ebony,Ebony Almonds,Ebony,Almonds,Miscellaneous
+818,Ebony,Ebony Macintosh Apples,Ebony,Apples,Produce
+819,Ebony,Ebony Golden Delcious Apples,Ebony,Apples,Produce
+820,Ebony,Ebony Red Delcious Apples,Ebony,Apples,Produce
+821,Ebony,Ebony Lemons,Ebony,Lemons,Miscellaneous
+822,Ebony,Ebony Fancy Plums,Ebony,Plums,Miscellaneous
+823,Ebony,Ebony Plums,Ebony,Plums,Miscellaneous
+824,Ebony,Ebony Peaches,Ebony,Peaches,Produce
+825,Ebony,Ebony Broccoli,Ebony,Broccoli,Produce
+826,Ebony,Ebony Mandarin Oranges,Ebony,Oranges,Miscellaneous
+827,Ebony,Ebony Mixed Nuts,Ebony,Nuts,Produce
+828,Ebony,Ebony Canned Peanuts,Ebony,Peanuts,Produce
+829,Ebony,Ebony Sweet Onion,Ebony,Onion,Produce
+830,Ebony,Ebony Cantelope,Ebony,Cantelope,Miscellaneous
+831,Ebony,Ebony Honey Dew,Ebony,Dew,Pantry
+832,Ebony,Ebony Fuji Apples,Ebony,Apples,Produce
+833,Ebony,Ebony Walnuts,Ebony,Walnuts,Produce
+834,Ebony,Ebony Oranges,Ebony,Oranges,Miscellaneous
+835,Ebony,Ebony Tangerines,Ebony,Tangerines,Miscellaneous
+836,Ebony,Ebony Party Nuts,Ebony,Nuts,Produce
+837,Curlew,Curlew Lox,Market Meat/Seafood,Lox,Meat/Seafood
+838,Curlew,Curlew Scallops,Market Meat/Seafood,Scallops,Meat/Seafood
+839,Nationeel,Nationeel Low Fat Cookies,Nationeel,Cookies,Snacks/Frozen
+840,Nationeel,Nationeel BBQ Potato Chips,Nationeel,Chips,Produce
+841,Nationeel,Nationeel Corn Chips,Nationeel,Chips,Produce
+842,Nationeel,Nationeel Low Fat BBQ Chips,Nationeel,Chips,Snacks/Frozen
+843,Nationeel,Nationeel Sugar Cookies,Nationeel,Cookies,Snacks/Frozen
+844,Nationeel,Nationeel Chocolate Chip Cookies,Nationeel,Cookies,Beverage
+845,Nationeel,Nationeel Fudge Cookies,Nationeel,Cookies,Snacks/Frozen
+846,Nationeel,Nationeel Fudge Brownies,Nationeel,Brownies,Miscellaneous
+847,Nationeel,Nationeel Potato Chips,Nationeel,Chips,Produce
+848,Nationeel,Nationeel Lemon Cookies,Nationeel,Cookies,Snacks/Frozen
+849,Nationeel,Nationeel Graham Crackers,Nationeel,Crackers,Snacks/Frozen
+850,Nationeel,Nationeel Cheese Crackers,Nationeel,Crackers,Dairy
+851,Nationeel,Nationeel Buttered Popcorn,Nationeel,Popcorn,Produce
+852,Nationeel,Nationeel No Salt Popcorn,Nationeel,Popcorn,Produce
+853,Nationeel,Nationeel Low Fat Popcorn,Nationeel,Popcorn,Produce
+854,Nationeel,Nationeel Salsa Dip,Nationeel,Dip,Miscellaneous
+855,Nationeel,Nationeel Avocado Dip,Nationeel,Dip,Miscellaneous
+856,Nationeel,Nationeel Salted Pretzels,Nationeel,Pretzels,Snacks/Frozen
+857,Nationeel,Nationeel Cheese Dip,Nationeel,Dip,Dairy
+858,Nationeel,Nationeel Fondue Mix,Nationeel,Mix,Miscellaneous
+859,Nationeel,Nationeel Mini Donuts,Nationeel,Donuts,Produce
+860,Nationeel,Nationeel Beef Jerky,Nationeel,Jerky,Meat/Seafood
+861,Nationeel,Nationeel Chocolate Donuts,Nationeel,Donuts,Beverage
+862,Nationeel,Nationeel Low Fat Chips,Nationeel,Chips,Snacks/Frozen
+863,Nationeel,Nationeel Sesame Crackers,Nationeel,Crackers,Snacks/Frozen
+864,Nationeel,Nationeel Frosted Cookies,Nationeel,Cookies,Snacks/Frozen
+865,Nationeel,Nationeel Dried Apples,Nationeel,Apples,Produce
+866,Nationeel,Nationeel Apple Fruit Roll,Nationeel,Roll,Produce
+867,Nationeel,Nationeel Strawberry Fruit Roll,Nationeel,Roll,Produce
+868,Nationeel,Nationeel Raspberry Fruit Roll,Nationeel,Roll,Produce
+869,Nationeel,Nationeel Grape Fruit Roll,Nationeel,Roll,Produce
+870,Nationeel,Nationeel Dried Dates,Nationeel,Dates,Produce
+871,Nationeel,Nationeel Raisins,Nationeel,Raisins,Miscellaneous
+872,Nationeel,Nationeel Golden Raisins,Nationeel,Raisins,Miscellaneous
+873,Nationeel,Nationeel Dried Apricots,Nationeel,Apricots,Produce
+874,Nationeel,Nationeel Frosted Donuts,Nationeel,Donuts,Produce
+875,Thresher,Thresher Tasty Candy Bar,Market Snacks/Frozen,Bar,Snacks/Frozen
+876,Thresher,Thresher Mint Chocolate Bar,Market Beverage,Bar,Beverage
+877,Thresher,Thresher Malted Milk Balls,Market Beverage,Balls,Beverage
+878,Thresher,Thresher Semi-Sweet Chocolate Bar,Market Beverage,Bar,Beverage
+879,Thresher,Thresher Bubble Gum,Market Snacks/Frozen,Gum,Snacks/Frozen
+880,Thresher,Thresher Spicy Mints,Market Miscellaneous,Mints,Miscellaneous
+881,Thresher,Thresher Mints,Market Miscellaneous,Mints,Miscellaneous
+882,Thresher,Thresher White Chocolate Bar,Market Beverage,Bar,Beverage
+883,Monarch,Monarch Ravioli,Market Miscellaneous,Ravioli,Miscellaneous
+884,Monarch,Monarch Manicotti,Market Miscellaneous,Manicotti,Miscellaneous
+885,Monarch,Monarch Spaghetti,Market Bakery/Pasta,Spaghetti,Bakery/Pasta
+886,Monarch,Monarch Thai Rice,Market Pantry,Rice,Pantry
+887,Monarch,Monarch Rice Medly,Market Pantry,Medly,Pantry
+888,Discover,Discover Ravioli,Market Miscellaneous,Ravioli,Miscellaneous
+889,Discover,Discover Manicotti,Market Miscellaneous,Manicotti,Miscellaneous
+890,Discover,Discover Spaghetti,Market Bakery/Pasta,Spaghetti,Bakery/Pasta
+891,Discover,Discover Thai Rice,Market Pantry,Rice,Pantry
+892,Discover,Discover Rice Medly,Market Pantry,Medly,Pantry
+893,Pearl,Pearl Imported Beer,Market Beverage,Beer,Beverage
+894,Pearl,Pearl Light Wine,Market Beverage,Wine,Beverage
+895,Pearl,Pearl Chardonnay Wine,Market Beverage,Wine,Beverage
+896,Pearl,Pearl Chablis Wine,Market Beverage,Wine,Beverage
+897,Pearl,Pearl Merlot Wine,Market Beverage,Wine,Beverage
+898,Pearl,Pearl Chardonnay,Market Produce,Chardonnay,Produce
+899,Pearl,Pearl White Zinfandel Wine,Market Beverage,Wine,Beverage
+900,Pearl,Pearl Light Beer,Market Beverage,Beer,Beverage
+901,Fantastic,Fantastic Pumpernickel Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+902,Fantastic,Fantastic White Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+903,Fantastic,Fantastic Rye Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+904,Fantastic,Fantastic English Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+905,Fantastic,Fantastic Cranberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+906,Fantastic,Fantastic Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+907,Fantastic,Fantastic Bagels,Market Bakery/Pasta,Bagels,Bakery/Pasta
+908,Fantastic,Fantastic Blueberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+909,Fantastic,Fantastic Wheat Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+910,BBB Best,BBB Best Sesame Oil,BBB Best,Oil,Pantry
+911,BBB Best,BBB Best Chunky Peanut Butter,BBB Best,Butter,Produce
+912,BBB Best,BBB Best Hot Chocolate,BBB Best,Chocolate,Beverage
+913,BBB Best,BBB Best Brown Sugar,BBB Best,Sugar,Pantry
+914,BBB Best,BBB Best White Sugar,BBB Best,Sugar,Pantry
+915,BBB Best,BBB Best French Roast Coffee,BBB Best,Coffee,Beverage
+916,BBB Best,BBB Best Decaf Coffee,BBB Best,Coffee,Beverage
+917,BBB Best,BBB Best Regular Coffee,BBB Best,Coffee,Beverage
+918,BBB Best,BBB Best Vegetable Oil,BBB Best,Oil,Produce
+919,BBB Best,BBB Best Corn Oil,BBB Best,Oil,Produce
+920,BBB Best,BBB Best Tomato Sauce,BBB Best,Sauce,Produce
+921,BBB Best,BBB Best Canola Oil,BBB Best,Oil,Pantry
+922,BBB Best,BBB Best Grape Preserves,BBB Best,Preserves,Miscellaneous
+923,BBB Best,BBB Best Columbian Coffee,BBB Best,Coffee,Beverage
+924,BBB Best,BBB Best Strawberry Jelly,BBB Best,Jelly,Pantry
+925,BBB Best,BBB Best Pepper,BBB Best,Pepper,Pantry
+926,BBB Best,BBB Best Low Fat Apple Butter,BBB Best,Butter,Produce
+927,BBB Best,BBB Best Salt,BBB Best,Salt,Pantry
+928,BBB Best,BBB Best Apple Butter,BBB Best,Butter,Produce
+929,BBB Best,BBB Best Oregano,BBB Best,Oregano,Miscellaneous
+930,BBB Best,BBB Best Apple Jelly,BBB Best,Jelly,Produce
+931,BBB Best,BBB Best Grape Jam,BBB Best,Jam,Pantry
+932,BBB Best,BBB Best Apple Jam,BBB Best,Jam,Produce
+933,BBB Best,BBB Best Strawberry Jam,BBB Best,Jam,Pantry
+934,BBB Best,BBB Best Creamy Peanut Butter,BBB Best,Butter,Produce
+935,BBB Best,BBB Best Strawberry Preserves,BBB Best,Preserves,Miscellaneous
+936,BBB Best,BBB Best Extra Chunky Peanut Butter,BBB Best,Butter,Produce
+937,BBB Best,BBB Best Apple Preserves,BBB Best,Preserves,Produce
+938,BBB Best,BBB Best Grape Jelly,BBB Best,Jelly,Pantry
+939,Fabulous,Fabulous Berry Juice,Market Beverage,Juice,Beverage
+940,Fabulous,Fabulous Mango Drink,Market Beverage,Drink,Beverage
+941,Fabulous,Fabulous Strawberry Drink,Market Beverage,Drink,Beverage
+942,Fabulous,Fabulous Cream Soda,Market Beverage,Soda,Beverage
+943,Fabulous,Fabulous Diet Soda,Market Beverage,Soda,Beverage
+944,Fabulous,Fabulous Cola,Market Beverage,Cola,Beverage
+945,Fabulous,Fabulous Diet Cola,Market Beverage,Cola,Beverage
+946,Fabulous,Fabulous Orange Juice,Market Beverage,Juice,Beverage
+947,Fabulous,Fabulous Cranberry Juice,Market Beverage,Juice,Beverage
+948,Fabulous,Fabulous Apple Juice,Market Beverage,Juice,Beverage
+949,Fabulous,Fabulous Apple Drink,Market Beverage,Drink,Beverage
+950,Special,Special Oatmeal,Market Snacks/Frozen,Oatmeal,Snacks/Frozen
+951,Special,Special Corn Puffs,Market Produce,Puffs,Produce
+952,Special,Special Wheat Puffs,Market Snacks/Frozen,Puffs,Snacks/Frozen
+953,Special,Special Grits,Market Snacks/Frozen,Grits,Snacks/Frozen
+954,Just Right,Just Right Canned Beets,Just Right,Beets,Produce
+955,Just Right,Just Right Creamed Corn,Just Right,Corn,Produce
+956,Just Right,Just Right Canned String Beans,Just Right,Beans,Produce
+957,Just Right,Just Right Chicken Soup,Just Right,Soup,Meat/Seafood
+958,Just Right,Just Right Canned Yams,Just Right,Yams,Produce
+959,Just Right,Just Right Vegetable Soup,Just Right,Soup,Produce
+960,Just Right,Just Right Canned Tomatos,Just Right,Tomatos,Produce
+961,Just Right,Just Right Noodle Soup,Just Right,Soup,Bakery/Pasta
+962,Just Right,Just Right Regular Ramen Soup,Just Right,Soup,Bakery/Pasta
+963,Just Right,Just Right Chicken Noodle Soup,Just Right,Soup,Bakery/Pasta
+964,Just Right,Just Right Turkey Noodle Soup,Just Right,Soup,Bakery/Pasta
+965,Just Right,Just Right Beef Soup,Just Right,Soup,Meat/Seafood
+966,Just Right,Just Right Canned Peas,Just Right,Peas,Produce
+967,Just Right,Just Right Chicken Ramen Soup,Just Right,Soup,Bakery/Pasta
+968,Just Right,Just Right Canned Tuna in Water,Just Right,Water,Beverage
+969,Just Right,Just Right Canned Tuna in Oil,Just Right,Oil,Produce
+970,Just Right,Just Right Large Canned Shrimp,Just Right,Shrimp,Produce
+971,Just Right,Just Right Fancy Canned Anchovies,Just Right,Anchovies,Produce
+972,Just Right,Just Right Fancy Canned Clams,Just Right,Clams,Produce
+973,Just Right,Just Right Fancy Canned Oysters,Just Right,Oysters,Produce
+974,Just Right,Just Right Fancy Canned Sardines,Just Right,Sardines,Produce
+975,Just Right,Just Right Rice Soup,Just Right,Soup,Pantry
+976,Big City,Big City Canned Mixed Fruit,Market Produce,Fruit,Produce
+977,Big City,Big City Canned Peaches,Market Produce,Peaches,Produce
+978,Symphony,Symphony Rosy Sunglasses,Market Household,Sunglasses,Household
+979,James Bay,James Bay Eyeglass Screwdriver,Market Household,Screwdriver,Household
+980,James Bay,James Bay City Map,Market Household,Map,Household
+981,Even Better,Even Better Low Fat Cottage Cheese,Even Better,Cheese,Dairy
+982,Even Better,Even Better Low Fat Sour Cream,Even Better,Cream,Dairy
+983,Even Better,Even Better Sour Cream,Even Better,Cream,Dairy
+984,Even Better,Even Better Jack Cheese,Even Better,Cheese,Dairy
+985,Even Better,Even Better Muenster Cheese,Even Better,Cheese,Dairy
+986,Even Better,Even Better String Cheese,Even Better,Cheese,Dairy
+987,Even Better,Even Better Low Fat String Cheese,Even Better,Cheese,Dairy
+988,Even Better,Even Better Havarti Cheese,Even Better,Cheese,Dairy
+989,Even Better,Even Better Head Cheese,Even Better,Cheese,Dairy
+990,Even Better,Even Better Cheese Spread,Even Better,Spread,Dairy
+991,Even Better,Even Better Sharp Cheddar Cheese,Even Better,Cheese,Dairy
+992,Even Better,Even Better Mild Cheddar Cheese,Even Better,Cheese,Dairy
+993,Even Better,Even Better Large Curd Cottage Cheese,Even Better,Cheese,Dairy
+994,Even Better,Even Better 2% Milk,Even Better,Milk,Beverage
+995,Even Better,Even Better Buttermilk,Even Better,Buttermilk,Beverage
+996,Even Better,Even Better Chocolate Milk,Even Better,Milk,Beverage
+997,Even Better,Even Better 1% Milk,Even Better,Milk,Beverage
+998,Even Better,Even Better Whole Milk,Even Better,Milk,Beverage
+999,Even Better,Even Better Strawberry Yogurt,Even Better,Yogurt,Dairy
+1000,Even Better,Even Better Blueberry Yogurt,Even Better,Yogurt,Dairy
+1001,American,American Chicken Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+1002,American,American Pimento Loaf,Market Produce,Loaf,Produce
+1003,American,American Beef Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+1004,American,American Low Fat Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+1005,American,American Turkey Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+1006,American,American Foot-Long Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+1007,American,American Low Fat Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+1008,American,American Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+1009,American,American Roasted Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+1010,American,American Corned Beef,Market Produce,Beef,Produce
+1011,American,American Sliced Turkey,Market Meat/Seafood,Turkey,Meat/Seafood
+1012,American,American Sliced Ham,Market Meat/Seafood,Ham,Meat/Seafood
+1013,American,American Potato Salad,Market Produce,Salad,Produce
+1014,American,American Sliced Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+1015,National,National Small Brown Eggs,Market Dairy,Eggs,Dairy
+1016,National,National Large Brown Eggs,Market Dairy,Eggs,Dairy
+1017,National,National Small Eggs,Market Dairy,Eggs,Dairy
+1018,National,National Large Eggs,Market Dairy,Eggs,Dairy
+1019,National,National Egg Substitute,Market Dairy,Substitute,Dairy
+1020,PigTail,PigTail Low Fat Waffles,PigTail,Waffles,Snacks/Frozen
+1021,PigTail,PigTail Orange Popsicles,PigTail,Popsicles,Snacks/Frozen
+1022,PigTail,PigTail Frozen Chicken Breast,PigTail,Breast,Produce
+1023,PigTail,PigTail Frozen Pancakes,PigTail,Pancakes,Produce
+1024,PigTail,PigTail Low Fat French Fries,PigTail,Fries,Snacks/Frozen
+1025,PigTail,PigTail Frozen Sausage Pizza,PigTail,Pizza,Produce
+1026,PigTail,PigTail Blueberry Waffles,PigTail,Waffles,Snacks/Frozen
+1027,PigTail,PigTail Fajita French Fries,PigTail,Fries,Snacks/Frozen
+1028,PigTail,PigTail Waffles,PigTail,Waffles,Snacks/Frozen
+1029,PigTail,PigTail Frozen Pepperoni Pizza,PigTail,Pizza,Produce
+1030,PigTail,PigTail Frozen Cheese Pizza,PigTail,Pizza,Produce
+1031,PigTail,PigTail Frozen Mushroom Pizza,PigTail,Pizza,Produce
+1032,PigTail,PigTail Apple Cinnamon Waffles,PigTail,Waffles,Produce
+1033,PigTail,PigTail Frozen Carrots,PigTail,Carrots,Produce
+1034,PigTail,PigTail Turkey TV Dinner,PigTail,Dinner,Meat/Seafood
+1035,PigTail,PigTail Chicken TV Dinner,PigTail,Dinner,Meat/Seafood
+1036,PigTail,PigTail Beef TV Dinner,PigTail,Dinner,Meat/Seafood
+1037,PigTail,PigTail Pancake Mix,PigTail,Mix,Bakery/Pasta
+1038,PigTail,PigTail Grape Popsicles,PigTail,Popsicles,Snacks/Frozen
+1039,PigTail,PigTail Home Style French Fries,PigTail,Fries,Snacks/Frozen
+1040,PigTail,PigTail Lime Popsicles,PigTail,Popsicles,Snacks/Frozen
+1041,PigTail,PigTail Ice Cream,PigTail,Cream,Dairy
+1042,PigTail,PigTail Ice Cream Sandwich,PigTail,Sandwich,Dairy
+1043,PigTail,PigTail Frozen Cauliflower,PigTail,Cauliflower,Produce
+1044,PigTail,PigTail Frozen Broccoli,PigTail,Broccoli,Produce
+1045,PigTail,PigTail Frozen Corn,PigTail,Corn,Produce
+1046,PigTail,PigTail Frozen Peas,PigTail,Peas,Produce
+1047,PigTail,PigTail Popsicles,PigTail,Popsicles,Snacks/Frozen
+1048,PigTail,PigTail Frozen Chicken Thighs,PigTail,Thighs,Produce
+1049,PigTail,PigTail Frozen Chicken Wings,PigTail,Wings,Produce
+1050,PigTail,PigTail Lemon Popsicles,PigTail,Popsicles,Snacks/Frozen
+1051,Bird Call,Bird Call Silky Smooth Hair Conditioner,Bird Call,Conditioner,Personal Care
+1052,Bird Call,Bird Call Tartar Control Toothpaste,Bird Call,Toothpaste,Personal Care
+1053,Bird Call,Bird Call Whitening Toothpast,Bird Call,Toothpast,Miscellaneous
+1054,Bird Call,Bird Call Toothpaste,Bird Call,Toothpaste,Personal Care
+1055,Bird Call,Bird Call Deodorant,Bird Call,Deodorant,Personal Care
+1056,Bird Call,Bird Call Conditioning Shampoo,Bird Call,Shampoo,Meat/Seafood
+1057,Bird Call,Bird Call Extra Moisture Shampoo,Bird Call,Shampoo,Meat/Seafood
+1058,Bird Call,Bird Call Angled Toothbrush,Bird Call,Toothbrush,Miscellaneous
+1059,Bird Call,Bird Call Apricot Shampoo,Bird Call,Shampoo,Meat/Seafood
+1060,Bird Call,Bird Call Childrens Aspirin,Bird Call,Aspirin,Personal Care
+1061,Bird Call,Bird Call Buffered Aspirin,Bird Call,Aspirin,Personal Care
+1062,Bird Call,Bird Call 200 MG Ibuprofen,Bird Call,Ibuprofen,Miscellaneous
+1063,Bird Call,Bird Call 200 MG Acetominifen,Bird Call,Acetominifen,Personal Care
+1064,Bird Call,Bird Call HCL Nasal Spray,Bird Call,Spray,Miscellaneous
+1065,Bird Call,Bird Call Dishwasher Detergent,Bird Call,Detergent,Household
+1066,Bird Call,Bird Call Multi-Symptom Cold Remedy,Bird Call,Remedy,Personal Care
+1067,Bird Call,Bird Call Childrens Cold Remedy,Bird Call,Remedy,Personal Care
+1068,Bird Call,Bird Call Laundry Detergent,Bird Call,Detergent,Household
+1069,Bird Call,Bird Call Mint Mouthwash,Bird Call,Mouthwash,Miscellaneous
+1070,High Quality,High Quality 60 Watt Lightbulb,High Quality,Lightbulb,Household
+1071,High Quality,High Quality Plastic Forks,High Quality,Forks,Household
+1072,High Quality,High Quality Plastic Spoons,High Quality,Spoons,Household
+1073,High Quality,High Quality Plastic Knives,High Quality,Knives,Household
+1074,High Quality,High Quality C-Size Batteries,High Quality,Batteries,Miscellaneous
+1075,High Quality,High Quality 100 Watt Lightbulb,High Quality,Lightbulb,Household
+1076,High Quality,High Quality AAA-Size Batteries,High Quality,Batteries,Miscellaneous
+1077,High Quality,High Quality Paper Plates,High Quality,Plates,Household
+1078,High Quality,High Quality Paper Cups,High Quality,Cups,Household
+1079,High Quality,High Quality 75 Watt Lightbulb,High Quality,Lightbulb,Household
+1080,High Quality,High Quality Toilet Bowl Cleaner,High Quality,Cleaner,Household
+1081,High Quality,High Quality Counter Cleaner,High Quality,Cleaner,Household
+1082,High Quality,High Quality Glass Cleaner,High Quality,Cleaner,Household
+1083,High Quality,High Quality 25 Watt Lightbulb,High Quality,Lightbulb,Household
+1084,High Quality,High Quality AA-Size Batteries,High Quality,Batteries,Miscellaneous
+1085,High Quality,High Quality D-Size Batteries,High Quality,Batteries,Miscellaneous
+1086,High Quality,High Quality Paper Towels,High Quality,Towels,Household
+1087,High Quality,High Quality Soft Napkins,High Quality,Napkins,Household
+1088,High Quality,High Quality Scented Tissue,High Quality,Tissue,Household
+1089,High Quality,High Quality Toilet Paper,High Quality,Paper,Household
+1090,High Quality,High Quality Tissues,High Quality,Tissues,Household
+1091,High Quality,High Quality Scented Toilet Tissue,High Quality,Tissue,Household
+1092,High Quality,High Quality Room Freshener,High Quality,Freshener,Produce
+1093,High Quality,High Quality Frying Pan,High Quality,Pan,Miscellaneous
+1094,High Quality,High Quality Copper Cleaner,High Quality,Cleaner,Household
+1095,High Quality,High Quality Bees Wax Candles,High Quality,Candles,Miscellaneous
+1096,High Quality,High Quality Silver Cleaner,High Quality,Cleaner,Household
+1097,High Quality,High Quality Copper Pot Scrubber,High Quality,Scrubber,Miscellaneous
+1098,High Quality,High Quality Economy Toilet Brush,High Quality,Brush,Pantry
+1099,High Quality,High Quality Scissors,High Quality,Scissors,Miscellaneous
+1100,High Quality,High Quality Large Sponge,High Quality,Sponge,Miscellaneous
+1101,High Quality,High Quality Screw Driver,High Quality,Driver,Miscellaneous
+1102,Genteel,Genteel Extra Lean Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+1103,Genteel,Genteel Seasoned Hamburger,Market Meat/Seafood,Hamburger,Meat/Seafood
+1104,Mighty Good,Mighty Good Monthly Sports Magazine,Market Media,Magazine,Media
+1105,Mighty Good,Mighty Good Monthly Auto Magazine,Market Media,Magazine,Media
+1106,Mighty Good,Mighty Good Monthly Computer Magazine,Market Media,Magazine,Media
+1107,Mighty Good,Mighty Good Monthly Home Magazine,Market Media,Magazine,Media
+1108,Mighty Good,Mighty Good Monthly Fashion Magazine,Market Media,Magazine,Media
+1109,Tri-State,Tri-State Summer Squash,Tri-State,Squash,Miscellaneous
+1110,Tri-State,Tri-State Corn on the Cob,Tri-State,Cob,Produce
+1111,Tri-State,Tri-State Asparagus,Tri-State,Asparagus,Produce
+1112,Tri-State,Tri-State Sweet Peas,Tri-State,Peas,Produce
+1113,Tri-State,Tri-State New Potatos,Tri-State,Potatos,Produce
+1114,Tri-State,Tri-State Beets,Tri-State,Beets,Produce
+1115,Tri-State,Tri-State Prepared Salad,Tri-State,Salad,Miscellaneous
+1116,Tri-State,Tri-State Onions,Tri-State,Onions,Produce
+1117,Tri-State,Tri-State Green Pepper,Tri-State,Pepper,Pantry
+1118,Tri-State,Tri-State Shitake Mushrooms,Tri-State,Mushrooms,Produce
+1119,Tri-State,Tri-State Lettuce,Tri-State,Lettuce,Produce
+1120,Tri-State,Tri-State Elephant Garlic,Tri-State,Garlic,Produce
+1121,Tri-State,Tri-State Red Pepper,Tri-State,Pepper,Pantry
+1122,Tri-State,Tri-State Garlic,Tri-State,Garlic,Produce
+1123,Tri-State,Tri-State Potatos,Tri-State,Potatos,Produce
+1124,Tri-State,Tri-State Cauliflower,Tri-State,Cauliflower,Produce
+1125,Tri-State,Tri-State Tomatos,Tri-State,Tomatos,Produce
+1126,Tri-State,Tri-State Mushrooms,Tri-State,Mushrooms,Produce
+1127,Tri-State,Tri-State Baby Onion,Tri-State,Onion,Produce
+1128,Tri-State,Tri-State Dried Mushrooms,Tri-State,Mushrooms,Produce
+1129,Tri-State,Tri-State Fresh Lima Beans,Tri-State,Beans,Produce
+1130,Tri-State,Tri-State Squash,Tri-State,Squash,Miscellaneous
+1131,Tri-State,Tri-State Limes,Tri-State,Limes,Miscellaneous
+1132,Tri-State,Tri-State Firm Tofu,Tri-State,Tofu,Miscellaneous
+1133,Tri-State,Tri-State Almonds,Tri-State,Almonds,Miscellaneous
+1134,Tri-State,Tri-State Macintosh Apples,Tri-State,Apples,Produce
+1135,Tri-State,Tri-State Golden Delcious Apples,Tri-State,Apples,Produce
+1136,Tri-State,Tri-State Red Delcious Apples,Tri-State,Apples,Produce
+1137,Tri-State,Tri-State Lemons,Tri-State,Lemons,Miscellaneous
+1138,Tri-State,Tri-State Fancy Plums,Tri-State,Plums,Miscellaneous
+1139,Tri-State,Tri-State Plums,Tri-State,Plums,Miscellaneous
+1140,Tri-State,Tri-State Peaches,Tri-State,Peaches,Produce
+1141,Tri-State,Tri-State Broccoli,Tri-State,Broccoli,Produce
+1142,Tri-State,Tri-State Mandarin Oranges,Tri-State,Oranges,Miscellaneous
+1143,Tri-State,Tri-State Mixed Nuts,Tri-State,Nuts,Produce
+1144,Tri-State,Tri-State Canned Peanuts,Tri-State,Peanuts,Produce
+1145,Tri-State,Tri-State Sweet Onion,Tri-State,Onion,Produce
+1146,Tri-State,Tri-State Cantelope,Tri-State,Cantelope,Miscellaneous
+1147,Tri-State,Tri-State Honey Dew,Tri-State,Dew,Pantry
+1148,Tri-State,Tri-State Fuji Apples,Tri-State,Apples,Produce
+1149,Tri-State,Tri-State Walnuts,Tri-State,Walnuts,Produce
+1150,Tri-State,Tri-State Oranges,Tri-State,Oranges,Miscellaneous
+1151,Tri-State,Tri-State Tangerines,Tri-State,Tangerines,Miscellaneous
+1152,Tri-State,Tri-State Party Nuts,Tri-State,Nuts,Produce
+1153,Dual City,Dual City Lox,Market Meat/Seafood,Lox,Meat/Seafood
+1154,Dual City,Dual City Scallops,Market Meat/Seafood,Scallops,Meat/Seafood
+1155,Horatio,Horatio Low Fat Cookies,Horatio,Cookies,Snacks/Frozen
+1156,Horatio,Horatio BBQ Potato Chips,Horatio,Chips,Produce
+1157,Horatio,Horatio Corn Chips,Horatio,Chips,Produce
+1158,Horatio,Horatio Low Fat BBQ Chips,Horatio,Chips,Snacks/Frozen
+1159,Horatio,Horatio Sugar Cookies,Horatio,Cookies,Snacks/Frozen
+1160,Horatio,Horatio Chocolate Chip Cookies,Horatio,Cookies,Beverage
+1161,Horatio,Horatio Fudge Cookies,Horatio,Cookies,Snacks/Frozen
+1162,Horatio,Horatio Fudge Brownies,Horatio,Brownies,Miscellaneous
+1163,Horatio,Horatio Potato Chips,Horatio,Chips,Produce
+1164,Horatio,Horatio Lemon Cookies,Horatio,Cookies,Snacks/Frozen
+1165,Horatio,Horatio Graham Crackers,Horatio,Crackers,Snacks/Frozen
+1166,Horatio,Horatio Cheese Crackers,Horatio,Crackers,Dairy
+1167,Horatio,Horatio Buttered Popcorn,Horatio,Popcorn,Produce
+1168,Horatio,Horatio No Salt Popcorn,Horatio,Popcorn,Produce
+1169,Horatio,Horatio Low Fat Popcorn,Horatio,Popcorn,Produce
+1170,Horatio,Horatio Salsa Dip,Horatio,Dip,Miscellaneous
+1171,Horatio,Horatio Avocado Dip,Horatio,Dip,Miscellaneous
+1172,Horatio,Horatio Salted Pretzels,Horatio,Pretzels,Snacks/Frozen
+1173,Horatio,Horatio Cheese Dip,Horatio,Dip,Dairy
+1174,Horatio,Horatio Fondue Mix,Horatio,Mix,Miscellaneous
+1175,Horatio,Horatio Mini Donuts,Horatio,Donuts,Produce
+1176,Horatio,Horatio Beef Jerky,Horatio,Jerky,Meat/Seafood
+1177,Horatio,Horatio Chocolate Donuts,Horatio,Donuts,Beverage
+1178,Horatio,Horatio Low Fat Chips,Horatio,Chips,Snacks/Frozen
+1179,Horatio,Horatio Sesame Crackers,Horatio,Crackers,Snacks/Frozen
+1180,Horatio,Horatio Frosted Cookies,Horatio,Cookies,Snacks/Frozen
+1181,Horatio,Horatio Dried Apples,Horatio,Apples,Produce
+1182,Horatio,Horatio Apple Fruit Roll,Horatio,Roll,Produce
+1183,Horatio,Horatio Strawberry Fruit Roll,Horatio,Roll,Produce
+1184,Horatio,Horatio Raspberry Fruit Roll,Horatio,Roll,Produce
+1185,Horatio,Horatio Grape Fruit Roll,Horatio,Roll,Produce
+1186,Horatio,Horatio Dried Dates,Horatio,Dates,Produce
+1187,Horatio,Horatio Raisins,Horatio,Raisins,Miscellaneous
+1188,Horatio,Horatio Golden Raisins,Horatio,Raisins,Miscellaneous
+1189,Horatio,Horatio Dried Apricots,Horatio,Apricots,Produce
+1190,Horatio,Horatio Frosted Donuts,Horatio,Donuts,Produce
+1191,Musial,Musial Tasty Candy Bar,Market Snacks/Frozen,Bar,Snacks/Frozen
+1192,Musial,Musial Mint Chocolate Bar,Market Beverage,Bar,Beverage
+1193,Musial,Musial Malted Milk Balls,Market Beverage,Balls,Beverage
+1194,Musial,Musial Semi-Sweet Chocolate Bar,Market Beverage,Bar,Beverage
+1195,Musial,Musial Bubble Gum,Market Snacks/Frozen,Gum,Snacks/Frozen
+1196,Musial,Musial Spicy Mints,Market Miscellaneous,Mints,Miscellaneous
+1197,Musial,Musial Mints,Market Miscellaneous,Mints,Miscellaneous
+1198,Musial,Musial White Chocolate Bar,Market Beverage,Bar,Beverage
+1199,Colossal,Colossal Ravioli,Market Miscellaneous,Ravioli,Miscellaneous
+1200,Colossal,Colossal Manicotti,Market Miscellaneous,Manicotti,Miscellaneous
+1201,Colossal,Colossal Spaghetti,Market Bakery/Pasta,Spaghetti,Bakery/Pasta
+1202,Colossal,Colossal Thai Rice,Market Pantry,Rice,Pantry
+1203,Colossal,Colossal Rice Medly,Market Pantry,Medly,Pantry
+1204,Portsmouth,Portsmouth Imported Beer,Market Beverage,Beer,Beverage
+1205,Portsmouth,Portsmouth Light Wine,Market Beverage,Wine,Beverage
+1206,Portsmouth,Portsmouth Chardonnay Wine,Market Beverage,Wine,Beverage
+1207,Portsmouth,Portsmouth Chablis Wine,Market Beverage,Wine,Beverage
+1208,Portsmouth,Portsmouth Merlot Wine,Market Beverage,Wine,Beverage
+1209,Portsmouth,Portsmouth Chardonnay,Market Miscellaneous,Chardonnay,Miscellaneous
+1210,Portsmouth,Portsmouth White Zinfandel Wine,Market Beverage,Wine,Beverage
+1211,Portsmouth,Portsmouth Light Beer,Market Beverage,Beer,Beverage
+1212,Sphinx,Sphinx Pumpernickel Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1213,Sphinx,Sphinx White Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1214,Sphinx,Sphinx Rye Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1215,Sphinx,Sphinx English Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1216,Sphinx,Sphinx Cranberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1217,Sphinx,Sphinx Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1218,Sphinx,Sphinx Bagels,Market Bakery/Pasta,Bagels,Bakery/Pasta
+1219,Sphinx,Sphinx Blueberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1220,Sphinx,Sphinx Wheat Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1221,Plato,Plato Sesame Oil,Plato,Oil,Pantry
+1222,Plato,Plato Chunky Peanut Butter,Plato,Butter,Produce
+1223,Plato,Plato Hot Chocolate,Plato,Chocolate,Beverage
+1224,Plato,Plato Brown Sugar,Plato,Sugar,Pantry
+1225,Plato,Plato White Sugar,Plato,Sugar,Pantry
+1226,Plato,Plato French Roast Coffee,Plato,Coffee,Beverage
+1227,Plato,Plato Decaf Coffee,Plato,Coffee,Beverage
+1228,Plato,Plato Regular Coffee,Plato,Coffee,Beverage
+1229,Plato,Plato Vegetable Oil,Plato,Oil,Produce
+1230,Plato,Plato Corn Oil,Plato,Oil,Produce
+1231,Plato,Plato Tomato Sauce,Plato,Sauce,Produce
+1232,Plato,Plato Canola Oil,Plato,Oil,Pantry
+1233,Plato,Plato Grape Preserves,Plato,Preserves,Miscellaneous
+1234,Plato,Plato Columbian Coffee,Plato,Coffee,Beverage
+1235,Plato,Plato Strawberry Jelly,Plato,Jelly,Pantry
+1236,Plato,Plato Pepper,Plato,Pepper,Pantry
+1237,Plato,Plato Low Fat Apple Butter,Plato,Butter,Produce
+1238,Plato,Plato Salt,Plato,Salt,Pantry
+1239,Plato,Plato Apple Butter,Plato,Butter,Produce
+1240,Plato,Plato Oregano,Plato,Oregano,Miscellaneous
+1241,Plato,Plato Apple Jelly,Plato,Jelly,Produce
+1242,Plato,Plato Grape Jam,Plato,Jam,Pantry
+1243,Plato,Plato Apple Jam,Plato,Jam,Produce
+1244,Plato,Plato Strawberry Jam,Plato,Jam,Pantry
+1245,Plato,Plato Creamy Peanut Butter,Plato,Butter,Produce
+1246,Plato,Plato Strawberry Preserves,Plato,Preserves,Miscellaneous
+1247,Plato,Plato Extra Chunky Peanut Butter,Plato,Butter,Produce
+1248,Plato,Plato Apple Preserves,Plato,Preserves,Produce
+1249,Plato,Plato Grape Jelly,Plato,Jelly,Pantry
+1250,Skinner,Skinner Berry Juice,Market Beverage,Juice,Beverage
+1251,Skinner,Skinner Mango Drink,Market Beverage,Drink,Beverage
+1252,Skinner,Skinner Strawberry Drink,Market Beverage,Drink,Beverage
+1253,Skinner,Skinner Cream Soda,Market Beverage,Soda,Beverage
+1254,Skinner,Skinner Diet Soda,Market Beverage,Soda,Beverage
+1255,Skinner,Skinner Cola,Market Beverage,Cola,Beverage
+1256,Skinner,Skinner Diet Cola,Market Beverage,Cola,Beverage
+1257,Skinner,Skinner Orange Juice,Market Beverage,Juice,Beverage
+1258,Skinner,Skinner Cranberry Juice,Market Beverage,Juice,Beverage
+1259,Skinner,Skinner Apple Juice,Market Beverage,Juice,Beverage
+1260,Skinner,Skinner Apple Drink,Market Beverage,Drink,Beverage
+1261,Johnson,Johnson Oatmeal,Market Snacks/Frozen,Oatmeal,Snacks/Frozen
+1262,Johnson,Johnson Corn Puffs,Market Produce,Puffs,Produce
+1263,Johnson,Johnson Wheat Puffs,Market Snacks/Frozen,Puffs,Snacks/Frozen
+1264,Johnson,Johnson Grits,Market Snacks/Frozen,Grits,Snacks/Frozen
+1265,Pleasant,Pleasant Canned Beets,Pleasant,Beets,Produce
+1266,Pleasant,Pleasant Creamed Corn,Pleasant,Corn,Produce
+1267,Pleasant,Pleasant Canned String Beans,Pleasant,Beans,Produce
+1268,Pleasant,Pleasant Chicken Soup,Pleasant,Soup,Meat/Seafood
+1269,Pleasant,Pleasant Canned Yams,Pleasant,Yams,Produce
+1270,Pleasant,Pleasant Vegetable Soup,Pleasant,Soup,Produce
+1271,Pleasant,Pleasant Canned Tomatos,Pleasant,Tomatos,Produce
+1272,Pleasant,Pleasant Noodle Soup,Pleasant,Soup,Bakery/Pasta
+1273,Pleasant,Pleasant Regular Ramen Soup,Pleasant,Soup,Bakery/Pasta
+1274,Pleasant,Pleasant Chicken Noodle Soup,Pleasant,Soup,Bakery/Pasta
+1275,Pleasant,Pleasant Turkey Noodle Soup,Pleasant,Soup,Bakery/Pasta
+1276,Pleasant,Pleasant Beef Soup,Pleasant,Soup,Meat/Seafood
+1277,Pleasant,Pleasant Canned Peas,Pleasant,Peas,Produce
+1278,Pleasant,Pleasant Chicken Ramen Soup,Pleasant,Soup,Bakery/Pasta
+1279,Pleasant,Pleasant Canned Tuna in Water,Pleasant,Water,Beverage
+1280,Pleasant,Pleasant Canned Tuna in Oil,Pleasant,Oil,Produce
+1281,Pleasant,Pleasant Large Canned Shrimp,Pleasant,Shrimp,Produce
+1282,Pleasant,Pleasant Fancy Canned Anchovies,Pleasant,Anchovies,Produce
+1283,Pleasant,Pleasant Fancy Canned Clams,Pleasant,Clams,Produce
+1284,Pleasant,Pleasant Fancy Canned Oysters,Pleasant,Oysters,Produce
+1285,Pleasant,Pleasant Fancy Canned Sardines,Pleasant,Sardines,Produce
+1286,Pleasant,Pleasant Rice Soup,Pleasant,Soup,Pantry
+1287,Toucan,Toucan Canned Mixed Fruit,Market Produce,Fruit,Produce
+1288,Toucan,Toucan Canned Peaches,Market Produce,Peaches,Produce
+1289,Toretti,Toretti Rosy Sunglasses,Market Household,Sunglasses,Household
+1290,Framton,Framton Eyeglass Screwdriver,Market Household,Screwdriver,Household
+1291,Framton,Framton City Map,Market Household,Map,Household
+1292,Booker,Booker Low Fat Cottage Cheese,Booker,Cheese,Dairy
+1293,Booker,Booker Low Fat Sour Cream,Booker,Cream,Dairy
+1294,Booker,Booker Sour Cream,Booker,Cream,Dairy
+1295,Booker,Booker Jack Cheese,Booker,Cheese,Dairy
+1296,Booker,Booker Muenster Cheese,Booker,Cheese,Dairy
+1297,Booker,Booker String Cheese,Booker,Cheese,Dairy
+1298,Booker,Booker Low Fat String Cheese,Booker,Cheese,Dairy
+1299,Booker,Booker Havarti Cheese,Booker,Cheese,Dairy
+1300,Booker,Booker Head Cheese,Booker,Cheese,Dairy
+1301,Booker,Booker Cheese Spread,Booker,Spread,Dairy
+1302,Booker,Booker Sharp Cheddar Cheese,Booker,Cheese,Dairy
+1303,Booker,Booker Mild Cheddar Cheese,Booker,Cheese,Dairy
+1304,Booker,Booker Large Curd Cottage Cheese,Booker,Cheese,Dairy
+1305,Booker,Booker 2% Milk,Booker,Milk,Beverage
+1306,Booker,Booker Buttermilk,Booker,Buttermilk,Beverage
+1307,Booker,Booker Chocolate Milk,Booker,Milk,Beverage
+1308,Booker,Booker 1% Milk,Booker,Milk,Beverage
+1309,Booker,Booker Whole Milk,Booker,Milk,Beverage
+1310,Booker,Booker Strawberry Yogurt,Booker,Yogurt,Dairy
+1311,Booker,Booker Blueberry Yogurt,Booker,Yogurt,Dairy
+1312,Lake,Lake Chicken Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+1313,Lake,Lake Pimento Loaf,Market Produce,Loaf,Produce
+1314,Lake,Lake Beef Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+1315,Lake,Lake Low Fat Bologna,Market Meat/Seafood,Bologna,Meat/Seafood
+1316,Lake,Lake Turkey Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+1317,Lake,Lake Foot-Long Hot Dogs,Market Snacks/Frozen,Dogs,Snacks/Frozen
+1318,Lake,Lake Low Fat Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+1319,Lake,Lake Cole Slaw,Market Miscellaneous,Slaw,Miscellaneous
+1320,Lake,Lake Roasted Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+1321,Lake,Lake Corned Beef,Market Produce,Beef,Produce
+1322,Lake,Lake Sliced Turkey,Market Meat/Seafood,Turkey,Meat/Seafood
+1323,Lake,Lake Sliced Ham,Market Meat/Seafood,Ham,Meat/Seafood
+1324,Lake,Lake Potato Salad,Market Produce,Salad,Produce
+1325,Lake,Lake Sliced Chicken,Market Meat/Seafood,Chicken,Meat/Seafood
+1326,Giant,Giant Small Brown Eggs,Market Dairy,Eggs,Dairy
+1327,Giant,Giant Large Brown Eggs,Market Dairy,Eggs,Dairy
+1328,Giant,Giant Small Eggs,Market Dairy,Eggs,Dairy
+1329,Giant,Giant Large Eggs,Market Dairy,Eggs,Dairy
+1330,Giant,Giant Egg Substitute,Market Dairy,Substitute,Dairy
+1331,Carrington,Carrington Low Fat Waffles,Carrington,Waffles,Snacks/Frozen
+1332,Carrington,Carrington Orange Popsicles,Carrington,Popsicles,Snacks/Frozen
+1333,Carrington,Carrington Frozen Chicken Breast,Carrington,Breast,Produce
+1334,Carrington,Carrington Frozen Pancakes,Carrington,Pancakes,Produce
+1335,Carrington,Carrington Low Fat French Fries,Carrington,Fries,Snacks/Frozen
+1336,Carrington,Carrington Frozen Sausage Pizza,Carrington,Pizza,Produce
+1337,Carrington,Carrington Blueberry Waffles,Carrington,Waffles,Snacks/Frozen
+1338,Carrington,Carrington Fajita French Fries,Carrington,Fries,Snacks/Frozen
+1339,Carrington,Carrington Waffles,Carrington,Waffles,Snacks/Frozen
+1340,Carrington,Carrington Frozen Pepperoni Pizza,Carrington,Pizza,Produce
+1341,Carrington,Carrington Frozen Cheese Pizza,Carrington,Pizza,Produce
+1342,Carrington,Carrington Frozen Mushroom Pizza,Carrington,Pizza,Produce
+1343,Carrington,Carrington Apple Cinnamon Waffles,Carrington,Waffles,Produce
+1344,Carrington,Carrington Frozen Carrots,Carrington,Carrots,Produce
+1345,Carrington,Carrington Turkey TV Dinner,Carrington,Dinner,Meat/Seafood
+1346,Carrington,Carrington Chicken TV Dinner,Carrington,Dinner,Meat/Seafood
+1347,Carrington,Carrington Beef TV Dinner,Carrington,Dinner,Meat/Seafood
+1348,Carrington,Carrington Pancake Mix,Carrington,Mix,Bakery/Pasta
+1349,Carrington,Carrington Grape Popsicles,Carrington,Popsicles,Snacks/Frozen
+1350,Carrington,Carrington Home Style French Fries,Carrington,Fries,Snacks/Frozen
+1351,Carrington,Carrington Lime Popsicles,Carrington,Popsicles,Snacks/Frozen
+1352,Carrington,Carrington Ice Cream,Carrington,Cream,Dairy
+1353,Carrington,Carrington Ice Cream Sandwich,Carrington,Sandwich,Dairy
+1354,Carrington,Carrington Frozen Cauliflower,Carrington,Cauliflower,Produce
+1355,Carrington,Carrington Frozen Broccoli,Carrington,Broccoli,Produce
+1356,Carrington,Carrington Frozen Corn,Carrington,Corn,Produce
+1357,Carrington,Carrington Frozen Peas,Carrington,Peas,Produce
+1358,Carrington,Carrington Popsicles,Carrington,Popsicles,Snacks/Frozen
+1359,Carrington,Carrington Frozen Chicken Thighs,Carrington,Thighs,Produce
+1360,Carrington,Carrington Frozen Chicken Wings,Carrington,Wings,Produce
+1361,Carrington,Carrington Lemon Popsicles,Carrington,Popsicles,Snacks/Frozen
+1362,Hilltop,Hilltop Silky Smooth Hair Conditioner,Hilltop,Conditioner,Personal Care
+1363,Hilltop,Hilltop Tartar Control Toothpaste,Hilltop,Toothpaste,Personal Care
+1364,Hilltop,Hilltop Whitening Toothpast,Hilltop,Toothpast,Miscellaneous
+1365,Hilltop,Hilltop Toothpaste,Hilltop,Toothpaste,Personal Care
+1366,Hilltop,Hilltop Deodorant,Hilltop,Deodorant,Personal Care
+1367,Hilltop,Hilltop Conditioning Shampoo,Hilltop,Shampoo,Meat/Seafood
+1368,Hilltop,Hilltop Extra Moisture Shampoo,Hilltop,Shampoo,Meat/Seafood
+1369,Hilltop,Hilltop Angled Toothbrush,Hilltop,Toothbrush,Miscellaneous
+1370,Hilltop,Hilltop Apricot Shampoo,Hilltop,Shampoo,Meat/Seafood
+1371,Hilltop,Hilltop Childrens Aspirin,Hilltop,Aspirin,Personal Care
+1372,Hilltop,Hilltop Buffered Aspirin,Hilltop,Aspirin,Personal Care
+1373,Hilltop,Hilltop 200 MG Ibuprofen,Hilltop,Ibuprofen,Miscellaneous
+1374,Hilltop,Hilltop 200 MG Acetominifen,Hilltop,Acetominifen,Personal Care
+1375,Hilltop,Hilltop HCL Nasal Spray,Hilltop,Spray,Miscellaneous
+1376,Hilltop,Hilltop Dishwasher Detergent,Hilltop,Detergent,Household
+1377,Hilltop,Hilltop Multi-Symptom Cold Remedy,Hilltop,Remedy,Personal Care
+1378,Hilltop,Hilltop Childrens Cold Remedy,Hilltop,Remedy,Personal Care
+1379,Hilltop,Hilltop Laundry Detergent,Hilltop,Detergent,Household
+1380,Hilltop,Hilltop Mint Mouthwash,Hilltop,Mouthwash,Miscellaneous
+1381,Sunset,Sunset 60 Watt Lightbulb,Sunset,Lightbulb,Household
+1382,Sunset,Sunset Plastic Forks,Sunset,Forks,Household
+1383,Sunset,Sunset Plastic Spoons,Sunset,Spoons,Household
+1384,Sunset,Sunset Plastic Knives,Sunset,Knives,Household
+1385,Sunset,Sunset C-Size Batteries,Sunset,Batteries,Miscellaneous
+1386,Sunset,Sunset 100 Watt Lightbulb,Sunset,Lightbulb,Household
+1387,Sunset,Sunset AAA-Size Batteries,Sunset,Batteries,Miscellaneous
+1388,Sunset,Sunset Paper Plates,Sunset,Plates,Household
+1389,Sunset,Sunset Paper Cups,Sunset,Cups,Household
+1390,Sunset,Sunset 75 Watt Lightbulb,Sunset,Lightbulb,Household
+1391,Sunset,Sunset Toilet Bowl Cleaner,Sunset,Cleaner,Household
+1392,Sunset,Sunset Counter Cleaner,Sunset,Cleaner,Household
+1393,Sunset,Sunset Glass Cleaner,Sunset,Cleaner,Household
+1394,Sunset,Sunset 25 Watt Lightbulb,Sunset,Lightbulb,Household
+1395,Sunset,Sunset AA-Size Batteries,Sunset,Batteries,Miscellaneous
+1396,Sunset,Sunset D-Size Batteries,Sunset,Batteries,Miscellaneous
+1397,Sunset,Sunset Paper Towels,Sunset,Towels,Household
+1398,Sunset,Sunset Soft Napkins,Sunset,Napkins,Household
+1399,Sunset,Sunset Scented Tissue,Sunset,Tissue,Household
+1400,Sunset,Sunset Toilet Paper,Sunset,Paper,Household
+1401,Sunset,Sunset Tissues,Sunset,Tissues,Household
+1402,Sunset,Sunset Scented Toilet Tissue,Sunset,Tissue,Household
+1403,Sunset,Sunset Room Freshener,Sunset,Freshener,Produce
+1404,Sunset,Sunset Frying Pan,Sunset,Pan,Miscellaneous
+1405,Sunset,Sunset Copper Cleaner,Sunset,Cleaner,Household
+1406,Sunset,Sunset Bees Wax Candles,Sunset,Candles,Miscellaneous
+1407,Sunset,Sunset Silver Cleaner,Sunset,Cleaner,Household
+1408,Sunset,Sunset Copper Pot Scrubber,Sunset,Scrubber,Miscellaneous
+1409,Sunset,Sunset Economy Toilet Brush,Sunset,Brush,Pantry
+1410,Sunset,Sunset Scissors,Sunset,Scissors,Miscellaneous
+1411,Sunset,Sunset Large Sponge,Sunset,Sponge,Miscellaneous
+1412,Sunset,Sunset Screw Driver,Sunset,Driver,Miscellaneous
+1413,Gerolli,Gerolli Extra Lean Hamburger,Market Bakery/Pasta,Hamburger,Bakery/Pasta
+1414,Gerolli,Gerolli Seasoned Hamburger,Market Bakery/Pasta,Hamburger,Bakery/Pasta
+1415,Gauss,Gauss Monthly Sports Magazine,Market Media,Magazine,Media
+1416,Gauss,Gauss Monthly Auto Magazine,Market Media,Magazine,Media
+1417,Gauss,Gauss Monthly Computer Magazine,Market Media,Magazine,Media
+1418,Gauss,Gauss Monthly Home Magazine,Market Media,Magazine,Media
+1419,Gauss,Gauss Monthly Fashion Magazine,Market Media,Magazine,Media
+1420,Hermanos,Hermanos Summer Squash,Hermanos,Squash,Miscellaneous
+1421,Hermanos,Hermanos Corn on the Cob,Hermanos,Cob,Produce
+1422,Hermanos,Hermanos Asparagus,Hermanos,Asparagus,Produce
+1423,Hermanos,Hermanos Sweet Peas,Hermanos,Peas,Produce
+1424,Hermanos,Hermanos New Potatos,Hermanos,Potatos,Produce
+1425,Hermanos,Hermanos Beets,Hermanos,Beets,Produce
+1426,Hermanos,Hermanos Prepared Salad,Hermanos,Salad,Miscellaneous
+1427,Hermanos,Hermanos Onions,Hermanos,Onions,Produce
+1428,Hermanos,Hermanos Green Pepper,Hermanos,Pepper,Pantry
+1429,Hermanos,Hermanos Shitake Mushrooms,Hermanos,Mushrooms,Produce
+1430,Hermanos,Hermanos Lettuce,Hermanos,Lettuce,Produce
+1431,Hermanos,Hermanos Elephant Garlic,Hermanos,Garlic,Produce
+1432,Hermanos,Hermanos Red Pepper,Hermanos,Pepper,Pantry
+1433,Hermanos,Hermanos Garlic,Hermanos,Garlic,Produce
+1434,Hermanos,Hermanos Potatos,Hermanos,Potatos,Produce
+1435,Hermanos,Hermanos Cauliflower,Hermanos,Cauliflower,Produce
+1436,Hermanos,Hermanos Tomatos,Hermanos,Tomatos,Produce
+1437,Hermanos,Hermanos Mushrooms,Hermanos,Mushrooms,Produce
+1438,Hermanos,Hermanos Baby Onion,Hermanos,Onion,Produce
+1439,Hermanos,Hermanos Dried Mushrooms,Hermanos,Mushrooms,Produce
+1440,Hermanos,Hermanos Fresh Lima Beans,Hermanos,Beans,Produce
+1441,Hermanos,Hermanos Squash,Hermanos,Squash,Miscellaneous
+1442,Hermanos,Hermanos Limes,Hermanos,Limes,Miscellaneous
+1443,Hermanos,Hermanos Firm Tofu,Hermanos,Tofu,Miscellaneous
+1444,Hermanos,Hermanos Almonds,Hermanos,Almonds,Miscellaneous
+1445,Hermanos,Hermanos Macintosh Apples,Hermanos,Apples,Produce
+1446,Hermanos,Hermanos Golden Delcious Apples,Hermanos,Apples,Produce
+1447,Hermanos,Hermanos Red Delcious Apples,Hermanos,Apples,Produce
+1448,Hermanos,Hermanos Lemons,Hermanos,Lemons,Miscellaneous
+1449,Hermanos,Hermanos Fancy Plums,Hermanos,Plums,Miscellaneous
+1450,Hermanos,Hermanos Plums,Hermanos,Plums,Miscellaneous
+1451,Hermanos,Hermanos Peaches,Hermanos,Peaches,Produce
+1452,Hermanos,Hermanos Broccoli,Hermanos,Broccoli,Produce
+1453,Hermanos,Hermanos Mandarin Oranges,Hermanos,Oranges,Miscellaneous
+1454,Hermanos,Hermanos Mixed Nuts,Hermanos,Nuts,Produce
+1455,Hermanos,Hermanos Canned Peanuts,Hermanos,Peanuts,Produce
+1456,Hermanos,Hermanos Sweet Onion,Hermanos,Onion,Produce
+1457,Hermanos,Hermanos Cantelope,Hermanos,Cantelope,Miscellaneous
+1458,Hermanos,Hermanos Honey Dew,Hermanos,Dew,Pantry
+1459,Hermanos,Hermanos Fuji Apples,Hermanos,Apples,Produce
+1460,Hermanos,Hermanos Walnuts,Hermanos,Walnuts,Produce
+1461,Hermanos,Hermanos Oranges,Hermanos,Oranges,Miscellaneous
+1462,Hermanos,Hermanos Tangerines,Hermanos,Tangerines,Miscellaneous
+1463,Hermanos,Hermanos Party Nuts,Hermanos,Nuts,Produce
+1464,Amigo,Amigo Lox,Market Meat/Seafood,Lox,Meat/Seafood
+1465,Amigo,Amigo Scallops,Market Meat/Seafood,Scallops,Meat/Seafood
+1466,Fort West,Fort West Low Fat Cookies,Fort West,Cookies,Snacks/Frozen
+1467,Fort West,Fort West BBQ Potato Chips,Fort West,Chips,Produce
+1468,Fort West,Fort West Corn Chips,Fort West,Chips,Produce
+1469,Fort West,Fort West Low Fat BBQ Chips,Fort West,Chips,Snacks/Frozen
+1470,Fort West,Fort West Sugar Cookies,Fort West,Cookies,Snacks/Frozen
+1471,Fort West,Fort West Chocolate Chip Cookies,Fort West,Cookies,Beverage
+1472,Fort West,Fort West Fudge Cookies,Fort West,Cookies,Snacks/Frozen
+1473,Fort West,Fort West Fudge Brownies,Fort West,Brownies,Miscellaneous
+1474,Fort West,Fort West Potato Chips,Fort West,Chips,Produce
+1475,Fort West,Fort West Lemon Cookies,Fort West,Cookies,Snacks/Frozen
+1476,Fort West,Fort West Graham Crackers,Fort West,Crackers,Snacks/Frozen
+1477,Fort West,Fort West Cheese Crackers,Fort West,Crackers,Dairy
+1478,Fort West,Fort West Buttered Popcorn,Fort West,Popcorn,Produce
+1479,Fort West,Fort West No Salt Popcorn,Fort West,Popcorn,Produce
+1480,Fort West,Fort West Low Fat Popcorn,Fort West,Popcorn,Produce
+1481,Fort West,Fort West Salsa Dip,Fort West,Dip,Miscellaneous
+1482,Fort West,Fort West Avocado Dip,Fort West,Dip,Miscellaneous
+1483,Fort West,Fort West Salted Pretzels,Fort West,Pretzels,Snacks/Frozen
+1484,Fort West,Fort West Cheese Dip,Fort West,Dip,Dairy
+1485,Fort West,Fort West Fondue Mix,Fort West,Mix,Miscellaneous
+1486,Fort West,Fort West Mini Donuts,Fort West,Donuts,Produce
+1487,Fort West,Fort West Beef Jerky,Fort West,Jerky,Meat/Seafood
+1488,Fort West,Fort West Chocolate Donuts,Fort West,Donuts,Beverage
+1489,Fort West,Fort West Low Fat Chips,Fort West,Chips,Snacks/Frozen
+1490,Fort West,Fort West Sesame Crackers,Fort West,Crackers,Snacks/Frozen
+1491,Fort West,Fort West Frosted Cookies,Fort West,Cookies,Snacks/Frozen
+1492,Fort West,Fort West Dried Apples,Fort West,Apples,Produce
+1493,Fort West,Fort West Apple Fruit Roll,Fort West,Roll,Produce
+1494,Fort West,Fort West Strawberry Fruit Roll,Fort West,Roll,Produce
+1495,Fort West,Fort West Raspberry Fruit Roll,Fort West,Roll,Produce
+1496,Fort West,Fort West Grape Fruit Roll,Fort West,Roll,Produce
+1497,Fort West,Fort West Dried Dates,Fort West,Dates,Produce
+1498,Fort West,Fort West Raisins,Fort West,Raisins,Miscellaneous
+1499,Fort West,Fort West Golden Raisins,Fort West,Raisins,Miscellaneous
+1500,Fort West,Fort West Dried Apricots,Fort West,Apricots,Produce
+1501,Fort West,Fort West Frosted Donuts,Fort West,Donuts,Produce
+1502,Gulf Coast,Gulf Coast Tasty Candy Bar,Market Snacks/Frozen,Bar,Snacks/Frozen
+1503,Gulf Coast,Gulf Coast Mint Chocolate Bar,Market Beverage,Bar,Beverage
+1504,Gulf Coast,Gulf Coast Malted Milk Balls,Market Beverage,Balls,Beverage
+1505,Gulf Coast,Gulf Coast Semi-Sweet Chocolate Bar,Market Beverage,Bar,Beverage
+1506,Gulf Coast,Gulf Coast Bubble Gum,Market Snacks/Frozen,Gum,Snacks/Frozen
+1507,Gulf Coast,Gulf Coast Spicy Mints,Market Miscellaneous,Mints,Miscellaneous
+1508,Gulf Coast,Gulf Coast Mints,Market Miscellaneous,Mints,Miscellaneous
+1509,Gulf Coast,Gulf Coast White Chocolate Bar,Market Beverage,Bar,Beverage
+1510,Jardon,Jardon Ravioli,Market Miscellaneous,Ravioli,Miscellaneous
+1511,Jardon,Jardon Manicotti,Market Miscellaneous,Manicotti,Miscellaneous
+1512,Jardon,Jardon Spaghetti,Market Bakery/Pasta,Spaghetti,Bakery/Pasta
+1513,Jardon,Jardon Thai Rice,Market Pantry,Rice,Pantry
+1514,Jardon,Jardon Rice Medly,Market Pantry,Medly,Pantry
+1515,Top Measure,Top Measure Imported Beer,Market Beverage,Beer,Beverage
+1516,Top Measure,Top Measure Light Wine,Market Beverage,Wine,Beverage
+1517,Top Measure,Top Measure Chardonnay Wine,Market Beverage,Wine,Beverage
+1518,Top Measure,Top Measure Chablis Wine,Market Beverage,Wine,Beverage
+1519,Top Measure,Top Measure Merlot Wine,Market Beverage,Wine,Beverage
+1520,Top Measure,Top Measure Chardonnay,Market Miscellaneous,Chardonnay,Miscellaneous
+1521,Top Measure,Top Measure White Zinfandel Wine,Market Beverage,Wine,Beverage
+1522,Top Measure,Top Measure Light Beer,Market Beverage,Beer,Beverage
+1523,Modell,Modell Pumpernickel Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1524,Modell,Modell White Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1525,Modell,Modell Rye Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1526,Modell,Modell English Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1527,Modell,Modell Cranberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1528,Modell,Modell Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1529,Modell,Modell Bagels,Market Bakery/Pasta,Bagels,Bakery/Pasta
+1530,Modell,Modell Blueberry Muffins,Market Bakery/Pasta,Muffins,Bakery/Pasta
+1531,Modell,Modell Wheat Bread,Market Bakery/Pasta,Bread,Bakery/Pasta
+1532,CDR,CDR Sesame Oil,CDR,Oil,Pantry
+1533,CDR,CDR Chunky Peanut Butter,CDR,Butter,Produce
+1534,CDR,CDR Hot Chocolate,CDR,Chocolate,Beverage
+1535,CDR,CDR Brown Sugar,CDR,Sugar,Pantry
+1536,CDR,CDR White Sugar,CDR,Sugar,Pantry
+1537,CDR,CDR French Roast Coffee,CDR,Coffee,Beverage
+1538,CDR,CDR Decaf Coffee,CDR,Coffee,Beverage
+1539,CDR,CDR Regular Coffee,CDR,Coffee,Beverage
+1540,CDR,CDR Vegetable Oil,CDR,Oil,Produce
+1541,CDR,CDR Corn Oil,CDR,Oil,Produce
+1542,CDR,CDR Tomato Sauce,CDR,Sauce,Produce
+1543,CDR,CDR Canola Oil,CDR,Oil,Pantry
+1544,CDR,CDR Grape Preserves,CDR,Preserves,Miscellaneous
+1545,CDR,CDR Columbian Coffee,CDR,Coffee,Beverage
+1546,CDR,CDR Strawberry Jelly,CDR,Jelly,Pantry
+1547,CDR,CDR Pepper,CDR,Pepper,Pantry
+1548,CDR,CDR Low Fat Apple Butter,CDR,Butter,Produce
+1549,CDR,CDR Salt,CDR,Salt,Pantry
+1550,CDR,CDR Apple Butter,CDR,Butter,Produce
+1551,CDR,CDR Oregano,CDR,Oregano,Miscellaneous
+1552,CDR,CDR Apple Jelly,CDR,Jelly,Produce
+1553,CDR,CDR Grape Jam,CDR,Jam,Pantry
+1554,CDR,CDR Apple Jam,CDR,Jam,Produce
+1555,CDR,CDR Strawberry Jam,CDR,Jam,Pantry
+1556,CDR,CDR Creamy Peanut Butter,CDR,Butter,Produce
+1557,CDR,CDR Strawberry Preserves,CDR,Preserves,Miscellaneous
+1558,CDR,CDR Extra Chunky Peanut Butter,CDR,Butter,Produce
+1559,CDR,CDR Apple Preserves,CDR,Preserves,Produce
+1560,CDR,CDR Grape Jelly,CDR,Jelly,Pantry
