@@ -1,6 +1,32 @@
 # data-analytics-portfolio
 
+### Bike Company Performance & Customer Insights Analysis
+
+**Objectives**:
+This analysis leverages a normalized dataset for a Bike manufacturing and retail operations within 3 years (2020-2022) to provide high-level management with actionable data-driven insights by 
+- evaluating Financial performance 
+- understanding Customer Purchasing Behavior
+- sssessing Product-Level profitability & performance 
+- identifying geographic sales trends to guide strategic decision-making
+
+## Insights 
+1. Product Portfolio Gap: Zero Orders in the "Bike Components" Category
+2. Revenue Concentration: Bikes Drive the Top Line
+3. Regional Disparity: Strong US Footprint vs. Weak German Market Penetration
+4. Customer Retention Warning: Declining ARPU Trend
+
+## Recommendations
+1. Reallocate marketing budget
+2. Clear out dead stock in inactive categories
+3. Conduct customer feedback surveys and churn analysis
+
+###########################################################################
+###########################################################################
+###########################################################################
+###########################################################################
+
 ### Bank Churn Analysis 
+**Overview**:
 A Bank Customer Churn dataset (typically 10,000 rows, 14 attributes covering Credit Score, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, and Exited). 
 
 Conducting an exploratory data analysis to identify key drivers of customer attrition and retention risks. Discovering **critical behavioral patterns**, highlighting that middle-aged cohorts, female customers, and inactive members exhibited the **highest churn risk**, with Germany recording the **highest regional churn** concentration.
@@ -21,8 +47,10 @@ Uncovered **high-value customer loss trends across tenure brackets, providing ac
 - Localized retention offers in Germany.
 - Automated re-engagement workflows for inactive accounts.
 
-###################################################################################################################################################################
-###################################################################################################################################################################
+###########################################################################
+###########################################################################
+###########################################################################
+###########################################################################
 
 
 ### HR & Payroll System Dashboard
